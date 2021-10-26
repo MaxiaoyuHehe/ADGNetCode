@@ -1,0 +1,10373 @@
+buildings	plant	sky
+buildings	windows	lamp
+buildings	sky
+people
+fun
+food
+planes	sky
+people
+animal	Wnetting	pot
+people	animal	fence
+water	people
+pot
+fun	sky
+people	plant
+people
+bottles
+rock	windows
+people
+bird	sky
+people	plant	plant
+people	plant
+animal	plant
+boat	water	people
+pot	wood
+None
+food
+clothes
+room	table	chair	windows
+cup	lamp
+buildings	sky
+buildings	plant	sky
+people	animal	sky	water
+flower
+people	flower
+animal
+glass
+people
+people	plant
+animal
+moon
+boat	sky
+people
+people	car
+people	plant	car
+people
+animal
+people
+rock
+people	cross	sky
+car
+None
+animal
+plant
+people	buildings	plant
+planes	sky
+buildings
+people	animal
+car	people
+rope
+train	plant
+people
+buildings	plant	people
+people
+people
+people
+buildings	car	rope
+animal
+rock
+car	people	sky
+shoes
+adv
+camera	people
+plant
+people
+sky	plant	buildings
+clothes
+people	plant
+plant	train
+people	motor
+people	motor
+animal
+ballon
+camera
+buildings
+rock	animal
+buildings
+animal	plant
+animal	water
+rope
+moon
+None
+people
+people	chair
+people
+glass
+sky	water
+None
+people	food
+plant	people
+buildings
+None
+animal
+buildings	plant	sky	water
+buildings	plant	sky	water
+room
+plant
+people	car
+ballon	people
+buildings
+car
+buildings
+room
+sculpture	plant
+equipment
+plant
+stars
+bird	water
+bird
+water	pot
+car
+pot
+animal	room
+animal	plant
+people
+animal	plant
+people
+people	animal
+room
+buildings
+animal
+None
+pot
+animal	fence
+people	room
+animal
+room
+plant
+buildings	plant
+animal
+people
+pot
+people
+buildings	plant
+plant
+people	motor	water
+car	plant	sky
+lamp	glass
+people	room
+lamp
+people
+plant	buildings
+food
+lamp	rope
+people	lamp
+buildings	plant
+buildings	plant
+food	pot
+food	pot
+toy
+planes
+sculpture
+flower
+fish
+butterfly
+animal
+train
+people
+people
+sculpture
+toy
+people	buildings
+bird
+people
+people	plant
+None
+stars
+coral
+animal	fence
+animal	plant
+people
+people	plant
+train	buildings
+bird
+equipment
+sky
+animal
+people	instrument
+chair
+animal	plant
+pot
+water
+car	buildings
+bird
+car
+pot	glass
+people	chair
+buildings	plant
+animal
+chair
+plant
+train	plant
+people
+people	plant
+car	motor	plant
+animal
+people
+lamp
+people	water
+people
+fly	plant
+car	people
+people	instrument
+car
+people
+chair
+sky	buildings
+plant	rock
+cross	rock
+lamp
+sky	buildings	car
+people
+people
+plant
+clock
+people
+buildings	stars
+people	lamp
+camera
+people
+people
+people
+people
+plant
+people
+firework	buildings
+people
+food
+bird	water
+people
+plant	buildings
+people
+animal	rock
+sculpture
+table
+food
+people
+table
+pot
+mushroom
+stars
+instrument
+fly
+water	buildings
+car
+None
+buildings
+car	people
+ballon	people
+buildings	plant
+animal	plant
+None
+lamp
+coral
+bird	sky
+mushroom
+animal
+food
+people
+None
+buildings	plant
+people	sculpture	plant
+sculpture	lamp	buildings
+fish	coral
+glass
+animal	plant
+animal
+people	chair
+animal
+lamp
+fly
+instrument
+bird
+room
+people	plant
+people
+people
+bird	plant
+firework
+None
+None
+buildings
+None
+people	buildings
+rock
+room
+boat	people	water
+boat	people	water
+buildings	car	people
+buildings	plant
+room	chair
+butterfly	plant
+buildings
+car
+car	people
+camera
+boat
+boat	people
+people
+people
+stars
+plant
+people
+planes
+people
+buildings
+people	lamp
+Wnetting
+pot
+people
+people
+sculpture
+sculpture
+fence	people
+fence
+car
+metal
+rock
+stair
+plant	windows
+sunset
+people
+plant
+motor
+ballon	plant
+people
+people
+animal
+animal
+room
+people	plant
+coral
+flower	plant
+car	plant	rock
+planes
+water	rock
+firework
+plant
+people
+phone	book
+flower
+sculpture
+room	lamp	bed
+lamp
+buildings
+people
+IC
+sculpture
+animal
+bird
+people	windows
+plant
+camera	people
+lamp	food
+people
+water	people
+None
+buildings
+glass
+fish
+people	ballon	water
+fly
+animal
+clothes
+food
+food
+animal	plant
+butterfly	plant
+people	instrument
+people
+bird
+people
+planes
+people
+lamp
+sculpture
+people	instrument	lamp
+plant	planes
+animal
+people
+bed
+sky
+people
+ballon	people
+pot	glass	food
+people	water	animal
+animal
+bird
+equipment
+animal
+butterfly	flower
+people	room
+ballon
+None
+buildings	plant
+lamp
+flower
+people
+bird	plant
+animal
+people
+people
+people
+people
+people
+people	chair
+people
+food
+animal
+table
+people
+equipment
+train
+buildings
+lamp	rock
+Wnetting
+pot
+animal
+lamp
+flower
+plant
+buildings
+sculpture
+pot
+people	car	fence
+canon	plant
+people	plant
+people
+buildings	sky
+bike	people
+digital
+keyboard	digital
+Wnetting
+cross	buildings
+people
+people
+people
+people
+plant
+car
+instrument
+metal
+camera
+plant
+food
+animal
+firework
+bird
+people
+boat	water
+buildings
+bird
+fence
+boat	water	buildings
+camera	keyboard
+people	plant	buildings
+food
+car
+bird
+plant
+people
+people
+buildings	sky	water
+planes	plant
+people
+people
+instrument
+people	instrument
+pot
+car	people
+animal
+people	water
+people
+lamp
+animal
+people
+car
+food
+food	pot
+planes
+monitor	keyboard	equipment
+food
+food
+flower
+None
+plant	plant	rock
+people	water
+None
+people	plant
+plant	fence
+people	adv
+book	metal
+buildings
+food
+food
+food
+car
+book
+people
+people	glass	pot
+None
+car
+metal	rock
+people	lamp
+ballon
+people
+animal
+animal	water
+bird
+bird	water
+bird	water
+bird	plant
+buildings	windows
+None
+car
+None
+people	lamp
+motor	people
+motor
+Wnetting
+plant
+camera
+plant
+sculpture
+flower	plant
+people
+sculpture
+people
+buildings	plant
+flower
+food
+monitor	people
+animal
+stars
+stars
+bird
+None
+animal
+plant	buildings
+rope
+car	people	buildings
+digital
+plant	buildings	sky
+micro
+micro
+people
+people	animal	plant
+bird
+people
+bike
+people
+food
+people
+rope	sky
+people	instrument
+people	animal
+animal
+people	fence
+people
+None
+fish
+bird
+sculpture
+fish
+buildings	sky	plant
+bird	plant
+windows	buildings
+None
+car
+sculpture
+motor	people
+people	lamp
+sculpture	room
+water
+None
+water
+water
+water
+water
+water
+water	people	boat
+water	people	boat
+lamp	people
+people	water	boat
+metal
+car	buildings	sky
+sculpture
+people
+people	water
+bird
+people
+people
+animal
+pot	glass
+stars
+lamp
+people
+stars	buildings
+sky	sculpture
+people	animal
+food
+rock	sky
+rock	sky
+food
+animal
+car	buildings
+stars
+plant
+bird	plant
+sculpture	people
+pot
+lamp
+snow
+people
+people
+animal	snow
+animal	plant
+moon
+food
+pot
+moon
+None
+plant
+None
+None
+people
+people
+snow
+sculpture
+people
+wool
+fish
+people
+None
+food
+people
+buildings
+animal
+people	plant
+plant	water
+wanimal
+None
+bird
+flower
+food
+people
+people	water	plant
+people
+animal
+planes
+animal
+flower
+None
+dish
+fish
+planes
+metal
+camera
+people
+people
+moon
+food
+animal
+people	buildings
+animal
+animal
+fruit
+water	moon	buildings
+people
+None
+adv
+fish
+lamp
+people
+people
+people	plant
+food
+animal	plant	plant	buildings
+None
+food
+flower
+animal
+fruit
+rock	lamp
+sculpture
+people	snow
+buildings	water	plant
+animal	plant
+room	bed	lamp
+animal
+animal
+fruit
+car
+rock
+wool
+people	cup
+people	cup
+animal
+people
+bed	room
+animal
+lamp	cup
+machine
+rope
+cross
+food
+buildings
+flower
+people
+IC
+None
+people
+fly
+fruit
+buildings	people	rope
+planes
+None
+None
+people	cup	lamp
+people
+firework
+animal	plant
+people	buildings	plant
+animal
+good
+people
+people	car	plant
+wheels
+people	sculpture
+people	sculpture
+camera
+None
+car
+None
+animal
+plant
+bottles
+book
+flower	plant
+plant
+None
+None
+people
+lamp
+firework
+tunnel
+buildings
+bird	water
+fruit
+bird
+fish
+flower
+moon
+buildings
+flower
+firework
+buildings
+lamp	cup
+people	animal
+bird	plant	fence
+plant
+lamp
+good
+wanimal
+None
+ballon	plant
+buildings
+instrument
+balls
+None
+food
+people
+people
+food
+fish
+plant	water
+lamp	cup
+room	lamp	monitor	chair
+None
+people	room
+wool
+plant	Wnetting
+None
+bike	lamp
+buildings	plant	people
+fly
+moon	people
+bird
+None
+instrument
+buildings
+animal	plant
+bike
+people	rock
+people	water
+plant
+metal
+people
+boat	water	sky
+room	lamp
+None
+animal
+None
+rock
+plant	animal
+plant
+food
+camera
+fresco
+people
+None
+None
+buildings
+None
+sunset	rope
+sculpture
+lamp
+bird
+None
+fly	flower
+flower
+fish
+plant	buildings
+balls
+people	animal	plant
+fly	plant
+ballon
+None
+None
+rock
+people	water
+mushroom
+balls
+animal
+buildings
+motor
+buildings
+bottles	lamp
+sky
+lamp	flower
+food
+digital	lamp
+people
+adv
+people	room
+phone
+IC
+None
+ballon
+ballon	people
+food
+wanimal
+None
+food
+animal
+tunnel	people
+Wnetting
+animal
+lamp	people
+plant
+fish
+keyboard
+plant
+road	fence
+None
+food
+animal
+None
+animal
+planes
+people
+wanimal
+fresco
+None
+coin
+animal
+people	instrument
+wheels
+fish
+animal
+animal
+bird
+lamp
+lamp
+people	monitor
+book	chair	table
+None
+animal
+lamp
+None
+animal
+None
+machine
+people	bottles
+buildings
+people	water
+people	instrument
+buildings
+fish
+fish
+flower
+wanimal
+fly
+fish
+lamp	people
+bird
+bottles
+firework
+animal
+None
+mushroom
+buildings
+None
+None
+sculpture
+sculpture
+buildings
+animal
+None
+bird	plant
+bird	animal	plant
+bird	sky
+None
+people
+people
+people	instrument
+animal
+ballon
+Wnetting
+people	bike
+lamp
+people	animal	plant
+buildings
+boat
+wool
+None
+machine
+None
+rope
+ballon
+balls
+bird	water
+people	plant	car
+animal
+balls
+lamp	windows
+None
+car
+people	plant
+None
+animal
+None
+food
+balls
+planes
+None
+buildings	plant	sky
+book
+fruit
+lamp
+bottles	glass
+bird	plant
+glass	bottles	food
+wool
+people
+fish
+fresco
+rock	people
+room
+animal	plant
+fresco
+wool
+None
+None
+None
+people
+rock
+people	motor	plant
+sculpture
+flower	plant	table
+None
+people	instrument
+lamp	cup
+plant	buildings
+fly	plant
+None
+plant
+moon
+cup
+fish
+buildings
+lamp
+car
+people
+people	lamp
+fruit
+wanimal
+mushroom
+None
+people
+None
+animal
+flower
+fly
+people	balls
+ballon	lamp	people
+people	water
+flower
+animal
+people
+None
+people	instrument
+None
+fly	flower
+people
+animal
+animal
+monitor	table
+wanimal
+animal
+balls
+animal	plant
+None
+car	buildings
+car	buildings
+fish
+animal
+animal
+car
+lamp
+animal
+fruit
+bird
+room	windows	table	people	flower
+bottles
+animal
+planes
+bird	water
+None
+fresco
+bird	plant
+bottles
+None
+food
+None
+animal
+bird
+fruit
+people	balls
+None
+clock
+people
+None
+rope
+metal
+people
+animal
+None
+animal
+flower
+animal
+animal
+wool
+equipment
+None
+sculpture
+people	instrument
+animal	plant
+None
+None
+plant	sky
+animal
+people	car
+bike	people	plant
+plant
+buildings	sky
+keyboard
+material
+None
+ballon	people	water
+buildings	people	plant
+bird
+room
+people
+None
+people	boat	water
+Wnetting
+bird
+people
+motor
+clock
+bird
+Wnetting
+firework
+people
+None
+None
+None
+clock
+None
+animal	plant
+turtle
+fish
+animal
+bike
+food
+plant	buildings
+plant
+animal
+people	fish
+fly
+sculpture
+lamp
+animal
+ballon
+people
+flower
+planes
+boat	water
+lamp
+people	Wnetting
+fruit
+car
+fly
+animal
+None
+sculpture	plant	sky
+sculpture
+None
+snow
+people
+people	snow	plant	buildings
+people	snow	plant
+knif
+animal
+moon
+moon
+moon
+chair
+food
+None
+phone
+glass	bottles
+train	plant
+None
+buildings	car	plant
+buildings	car	plant
+people
+shoes
+animal
+lamp
+lamp	stair
+people	lamp
+lamp	glass	bottles
+hand
+None
+fruit
+fruit
+motor
+plant	sky	water
+table	chair	monitor	room	windows
+None
+bird	water
+None
+Wnetting	plant
+fish
+None
+bird
+None
+people	buildings
+None
+None
+buildings	water
+snow	water
+balls
+None
+rock	sculpture
+moon
+None
+snow	plant	car	rope
+food
+sculpture
+motor
+wool
+bird	plant
+tunnel
+animal
+balls	shoes
+bird	water
+people	instrument
+plant
+lamp	pot
+people	table	lamp
+None
+bird
+animal	plant
+animal	plant
+lamp
+None
+None
+None
+people	bike	buildings	car
+flower
+bird
+food
+people	pot
+ballon	people
+fruit
+plant
+Wnetting	sky	adv
+food
+people
+people
+sky	snow
+glass
+moon
+buildings	people
+people	table
+buildings
+car
+None
+planes
+bike	plant	door
+food
+plant	rock
+people	dish	lamp
+animal
+people
+None
+flower
+None
+animal
+animal
+rock	lamp
+None
+rock
+balls
+balls
+bird
+fruit
+bird	sky
+None
+buildings	plant
+bike	people
+None
+medicine
+None
+animal
+plant	flower
+None
+None
+flower
+bird
+ballon	people
+car	lamp
+lamp
+flower
+rock
+animal
+animal
+planes
+None
+animal
+sky
+people	plant
+animal
+animal
+animal
+people
+animal
+Wnetting	plant	people
+car	people
+food	lamp
+None
+None
+wool
+buildings
+animal	people
+plant
+metal
+animal
+None
+None
+coin
+planes
+None
+None
+flower	plant
+people
+sculpture	lamp
+None
+animal	plant
+animal	plant
+animal
+None
+food
+glass
+food
+animal
+None
+animal
+people
+wanimal
+food
+food
+fish
+people
+flower
+bird
+None
+animal
+monitor
+animal
+monitor
+buildings
+plant
+bird	fruit
+lamp
+bird	sky
+people	cross
+animal
+fish
+buildings
+moon
+flower
+people
+flower
+train
+plant
+fruit
+None
+fruit
+fruit
+flower
+fresco
+food
+plant	car	rope
+animal
+animal
+None
+bike
+None
+plant	plant
+animal
+car	plant
+buildings	sky
+animal
+people
+wanimal
+Wnetting
+bird
+glass
+people
+animal
+animal
+fish
+planes
+cup
+flower
+chair
+bike
+bird
+plant
+fish
+None
+boat
+None
+people
+flower
+animal
+animal
+monitor
+clock
+glass
+machine
+animal	plant
+good
+car
+food
+glass	lamp	people
+people
+people	lamp
+people
+people
+flower
+animal
+lamp	buildings
+None
+food
+glass	lamp
+toy
+people
+people
+None
+buildings	lamp
+fish
+firework
+people
+moon
+people
+chair
+None
+animal
+people
+people
+flower
+medicine
+plant
+bird
+windows	people
+buildings
+planes
+sky
+flower
+butterfly
+hill	water
+animal
+moon
+people
+stair
+food
+mushroom
+fish
+plant	car
+buildings	lamp
+glass
+firework
+people
+None
+food
+wheels
+fish
+animal
+None
+None
+people	water
+None
+bird
+food
+wool
+boat
+plant
+animal
+metal
+None
+fruit
+buildings
+animal	sky
+boat	water
+monitor
+None
+None
+lamp
+ballon
+firework
+door
+fruit
+firework
+instrument
+None
+fish
+car
+people	lamp
+car	people
+firework
+shoes
+people
+None
+None
+food
+flower
+rock
+None
+firework
+dish
+people	plant
+fish
+buildings
+fresco
+fly	flower
+ballon	sky
+fish
+None
+sunset
+animal
+bike	people
+people	car
+fresco
+buildings	plant
+animal
+None
+car	buildings
+sofa
+fly
+fish
+windows
+fish
+people
+hand
+lamp
+lamp
+hand
+camera
+people
+people
+animal
+instrument
+bird
+butterfly
+food
+None
+bird
+people
+food
+windows
+plant	water
+cup
+people
+dish
+bird
+sky	hill
+ballon	people
+people	lamp	buildings
+car
+fruit
+people
+camera
+people	food
+people
+lamp
+glass
+people	plant
+None
+people	instrument
+planes
+animal
+plant	people
+food
+planes
+food
+planes
+wool
+people	sky	plant
+fly
+flower
+sculpture
+None
+bird
+people
+fly	flower
+animal
+knif
+people	instrument
+people
+drill
+bird
+monitor	hand
+animal
+road	plant	buildings
+firework
+firework
+Wnetting	bird	sky
+fruit
+plant	plant
+plant	drill
+car
+dish
+phone
+instrument	people
+firework
+people
+None
+None
+animal
+bird
+sculpture
+lamp
+animal
+fish
+bird
+buildings
+lamp
+plant	snow
+people	car
+flower
+bird
+lamp
+bag
+tunnel
+plant
+animal	hand
+motor	water	people	sky
+animal
+animal
+bird
+animal
+animal
+machine
+animal	plant
+people
+people
+None
+fish
+fly
+flower
+sculpture
+None
+windows
+None
+people	plant
+None
+ballon
+None
+Wnetting
+Wnetting
+camera
+people
+people
+None
+people	sofa	lamp	fruit
+buildings
+None
+people
+bracelets
+moon
+people
+None
+None
+car
+flower
+food
+keyboard
+bird
+flower
+None
+instrument	people
+buildings
+monitor
+animal	plant
+None
+None
+people	animal	plant
+people	motor
+fly
+flower
+animal
+animal
+flower
+food
+animal
+butterfly
+None
+None
+animal
+fish
+glass
+people	plant	plant	sky
+sculpture
+people
+fish	water	people
+car
+animal	snow
+None
+glass	lamp
+chair	lamp
+animal
+sculpture
+glass
+butterfly
+fly
+None
+None
+instrument
+None
+animal
+None
+fly
+lamp
+ballon
+car	plant
+bird
+animal	plant
+animal
+None
+digital
+cup
+animal
+glass
+toy
+glass
+None
+wool
+glass
+bird
+people	water
+lamp
+stair	windows
+None
+bird
+None
+food
+flower
+people	instrument
+digital
+animal
+buildings
+None
+bird
+fruit
+animal
+animal	water
+hill
+None
+instrument
+sofa	room	table
+buildings
+plant
+None
+car	plant	people
+buildings	lamp
+animal
+buildings	plant
+ballon
+boat
+people
+fish
+None
+wool	toy
+buildings	plant
+animal	people
+bird
+animal	plant
+animal	people
+people	plant
+people
+bottles
+glass
+animal
+flower
+fruit	people
+boat
+stars
+fruit
+fruit
+instrument
+fruit
+None
+animal
+flower
+animal
+people	plant
+food
+None
+people
+rock	flower
+car
+monitor
+animal
+people
+bike
+moon
+plant
+None
+None
+animal	plant
+road	car	plant
+plant
+fish
+lamp
+plant
+people	ballon	plant
+None
+None
+people	bike
+wool
+flower
+bird
+plant
+people	rock	boat	water	plant
+toy
+bird	water
+animal	Wnetting
+fish	people
+animal	water
+animal
+tunnel	lamp
+lamp
+pot
+plant
+balls
+None
+people
+fresco
+windows
+flower
+None
+plant	drill
+bottles
+lamp	road	car	buildings	people
+sculpture
+animal
+animal
+flower
+plant
+plant
+fruit
+medicine
+people	buildings	plant
+plant
+bike
+buildings	windows
+sculpture
+Wnetting
+flower	drill
+people
+None
+None
+toy
+lamp
+machine	sky
+people	water
+toy
+animal
+fly
+rock	plant
+plant
+people
+ballon	buildings
+bird
+None
+people	sofa
+phone
+people	instrument
+food
+plant
+people
+animal
+food
+food
+equipment
+bird	plant
+equipment
+camera
+machine
+bird	water
+bird
+None
+metal
+book
+flower
+None
+people
+fly
+lamp
+None
+people
+people
+food	cup
+animal
+None
+wanimal
+flower	plant
+glass
+None
+animal
+balls
+bag	lamp	motor
+people	balls
+animal
+mushroom
+None
+mushroom
+bottles	lamp	balls
+sculpture
+None
+None
+animal
+wanimal
+None
+None
+None
+fly
+food
+balls
+people	instrument
+None
+pen
+people
+sculpture	digital
+people
+rope
+machine
+plant	people
+rope
+lamp
+animal
+cup	bottles
+people
+animal
+moon
+lamp
+people
+Wnetting
+flower
+animal	plant
+balls
+moon
+flower
+animal	snow
+flower
+lamp
+clock
+people
+lamp	buildings
+metal
+food
+wood
+bird
+animal
+None
+food
+animal
+None
+people
+bird	Wnetting	plant
+flower
+wheels
+mushroom
+None
+animal
+food
+None
+keyboard	digital
+metal	balls
+buildings
+people	car
+None
+animal
+animal
+sculpture	animal
+None
+people	instrument
+people	sofa	lamp	glass
+animal
+people	plant
+fly
+instrument
+stair	book	table
+people	plant	snow
+None
+bed
+None
+lamp
+plant
+buildings	train
+food
+buildings	plant
+animal
+animal
+animal
+lamp
+wool
+glass
+animal
+lamp	people	table
+people
+plant
+glass
+rock
+people
+Wnetting
+lamp
+food
+bird
+None
+people	lamp
+food
+wool
+bed
+sculpture	plant
+None
+rope	sky	rope
+None
+people
+animal
+stair
+None
+car	people
+sofa	animal	people
+car
+people
+people
+keyboard	digital
+cup
+animal
+None
+None
+metal	buildings
+bird
+people	table
+food
+cup
+None
+people	plant
+None
+Wnetting
+animal
+bird
+car
+flower	plant
+animal
+people
+animal
+None
+buildings	sky
+plant
+animal	snow	people	plant
+None
+animal	people	snow	car
+chair
+people
+people	snow	boat
+bird
+bird	water
+people	plant	bike
+bird	rope
+people
+metal
+bird
+animal
+adv
+car	people	snow
+lamp
+cup
+camera
+sunset
+cans
+food
+None
+flower
+buildings
+animal
+people	instrument
+None
+bottles
+wool
+animal
+wool
+clothes
+bottles
+people
+good
+food
+people
+plant
+buildings	rope
+plant	snow	people
+buildings	lamp	plant
+food
+None
+stars	people
+None
+None
+people
+machine	plant
+None
+clothes
+train	rope
+None
+car
+chair	windows	table
+dish
+lamp
+hand
+buildings	people
+metal	toy
+good
+buildings
+food
+people	plant	animal
+food
+glass
+buildings	rope
+lamp
+people
+people	water	sky	boat
+flower
+fly
+wool
+flower
+fruit	lamp	people
+people	glass	lamp
+food
+wool
+people	sky
+people	snow
+people
+people
+people	plant
+lamp
+None
+buildings
+people
+animal
+flower
+bird
+fish
+hand
+metal
+animal	plant
+None
+fish
+None
+people	water
+fruit
+fruit
+machine
+sky	water
+animal
+people	water	plant
+people
+machine
+metal
+wool
+None
+fish
+bird
+people	animal
+wanimal
+people	animal
+bird
+people	instrument
+sunset	rope	rope
+people
+machine	metal
+None
+animal
+lamp
+None
+buildings
+machine
+moon
+stair
+None
+cup
+wood
+animal
+fruit
+bird
+animal
+shoes
+chair
+glass	lamp
+moon
+bird	water
+rope	rope
+metal	hand
+people	lamp
+moon
+bird
+animal	plant	water
+people	instrument
+plant	hill
+adv
+None
+people
+lamp	metal	wood
+None
+flower
+people
+bird
+water
+snow
+ballon	people
+animal
+flower
+people
+buildings
+people	balls	lamp
+people	plant
+rock
+buildings
+None
+buildings	plant	water
+lamp
+fish
+flower
+people
+lamp	metal
+animal
+bike
+car
+None
+animal	rock
+fly
+wool
+buildings
+None
+food
+people
+bird
+people	hand
+moon
+flower	plant
+animal
+instrument	metal
+flower	plant
+animal
+None
+food
+food
+rope	rope
+None
+buildings	sky
+bird	hand
+fruit
+sunset
+rock
+people	balls
+bird
+flower
+people	sofa
+people
+equipment
+None
+flower
+metal
+boat	people	water
+animal
+buildings	lamp
+animal
+motor
+None
+boat	ballon	water
+food
+animal
+metal
+people
+plant
+people	plant
+butterfly	plant
+flower
+car
+None
+sky	rock	plant
+None
+flower
+book
+animal
+bird
+None
+flower	plant
+flower
+flower
+clock	wood
+None
+people	animal
+animal
+None
+moon
+good
+wanimal
+balls
+people
+car
+animal
+people	lamp
+car
+buildings
+bird
+animal
+bike
+animal
+None
+people	instrument
+Wnetting
+people	animal
+flower
+people
+balls
+None
+machine
+lamp
+water
+glass
+None
+IC
+people
+fish
+fruit
+boat	water	people
+bird
+flower
+car
+rock
+people	lamp
+buildings	people
+sofa	lamp
+food
+people
+animal
+food
+fish
+animal
+buildings	lamp
+None
+fish
+people
+toy
+flower
+clothes
+animal
+animal
+flower
+wheels
+good
+sculpture
+None
+clothes
+fish
+adv
+bird	water
+flower
+toy
+fish
+people
+rock
+sculpture
+people
+people
+animal	plant
+None
+None
+None
+animal
+flower
+plant	people
+rock
+people	plant
+animal
+people	rock
+people	instrument
+room
+people	bike	plant
+boat	water
+None
+animal	plant
+None
+people	buildings
+None
+machine
+bottles
+buildings
+metal
+people	fruit
+clothes	people	door
+people	chair
+buildings	car	people	sky
+lamp
+lamp	people
+people
+plant
+buildings
+people	plant
+clothes
+good
+bottles
+people
+None
+flower
+book
+glass
+animal
+animal	plant
+planes
+animal
+None
+flower
+train	plant
+buildings	plant	plant
+food
+machine
+None
+people
+windows
+car	plant
+people
+room	chair	table
+ballon	hill	water
+car	adv
+fruit	plant
+ballon
+hand
+sky
+adv
+flower
+animal	plant
+animal	plant
+animal
+bird
+animal
+glass
+adv	buildings
+flower
+water	rock
+people
+animal	plant
+bird
+adv
+fruit
+people
+lamp	hand
+animal	rock
+plant
+None
+fish
+firework
+bed
+sky	buildings
+rope	train
+animal	sofa
+flower	plant
+plant
+car
+fish
+animal
+camera
+bike	people
+people
+camera
+animal	plant
+plant
+bird
+people
+people	chair
+animal
+buildings
+animal	people
+food	cup
+lamp	buildings
+people	plant
+animal	plant
+windows
+fruit
+ballon	sky
+car
+food
+room	sofa
+car	people	plant
+ballon	people
+plant
+people
+wheels
+sofa	book	table	lamp
+people
+sofa
+people
+water	animal
+equipment
+metal
+phone
+monitor
+animal	plant
+people
+people	food
+people	food
+ballon
+buildings	plant	sculpture
+animal
+animal
+flower	plant
+firework
+None
+plant
+wanimal
+planes
+None
+animal
+animal
+car
+flower
+flower
+sky
+animal
+car
+wool
+animal	plant
+ballon	plant	people
+buildings	plant	people
+None
+balls	hand
+animal
+motor
+fence
+wool
+people
+car
+animal	plant
+animal	plant
+flower
+fish
+glass
+food
+people
+machine
+chair	plant
+water	people
+canon
+animal	plant
+people
+people
+wood
+sunset
+None
+car
+lamp	rock
+people
+None
+buildings
+lamp
+animal	plant
+fish
+animal
+food
+buildings	sky
+firework
+firework
+animal
+people	water
+people	instrument
+firework
+fish
+people	instrument
+animal
+people	animal
+car
+car
+motor
+flower	plant
+flower	plant
+flower
+people	balls
+fish	rock
+pot	lamp
+people
+clock
+people	bike	plant
+food	glass
+firework
+plant
+people
+people
+people
+animal	Wnetting
+lamp
+plant	car	people
+rock
+sculpture
+road	plant
+animal
+camera
+animal	plant
+animal	plant
+car
+lamp	glass
+firework
+animal
+toy	wood
+animal
+machine
+bird	plant
+digital	keyboard
+rope	plant
+buildings
+sculpture
+people	plant
+toy
+flower
+people	plant
+bird
+fish
+fish
+equipment
+people	instrument
+people
+clothes	chair
+lamp
+ballon
+car
+people	plant
+stair
+animal
+sky
+animal
+fresco	windows
+animal
+pot
+lamp
+None
+snow	people
+fish
+firework
+fly
+animal
+fish
+people	animal
+fish
+fish
+people	table	plant
+turtle
+animal
+people	balls
+balls
+car
+bag
+buildings
+floor
+food
+people	sofa
+bottles
+people
+sculpture
+adv
+animal
+sculpture
+animal
+wheels
+plant	fun
+good
+bird	water
+people
+people	windows
+people	car
+firework
+coral	fish
+people	boat	water
+people	boat	water
+fly	rock
+butterfly	flower
+bike
+adv
+camera
+animal
+animal
+bird
+food
+Wnetting	people
+butterfly
+door
+fun
+cup	bottles
+moon
+bird
+ballon
+flower
+ballon
+bird
+road
+machine
+lamp
+people
+None
+medicine
+motor	people
+food
+rope	buildings
+rope	rope
+graffiti
+animal	plant
+animal
+bird	water
+people	water
+animal	plant
+plant
+None
+butterfly
+bird
+animal	plant
+people	Wnetting
+people
+animal	plant
+None
+people
+fish
+animal
+people
+animal
+None
+equipment
+None
+animal	plant
+people	water
+windows	chair	table
+buildings
+tunnel	bike
+instrument	hand
+train
+car
+planes
+glass
+bird
+bird	moon
+None
+hand	plant
+fly
+food
+wool
+people	plant
+buildings
+people
+flower
+None
+firework
+planes
+None
+planes	people
+firework
+people	canon
+people
+people	buildings	plant
+firework
+animal
+fly
+animal
+people	plant
+animal	rock
+animal
+flower
+people	pot	plant
+None
+people	plant
+people	instrument
+animal
+rope	rope
+None
+bird	water
+keyboard
+instrument	chair
+buildings	people
+people
+people	water	plant
+phone
+None
+flower
+people	instrument
+people	glass
+bike	plant
+animal
+water
+people
+None
+animal
+flower
+people	animal
+people
+rock
+buildings
+animal
+fruit
+people
+people
+None
+None
+toy
+animal
+animal	people
+moon
+people
+people
+mushroom
+food
+animal
+people
+None
+people
+people
+None
+people	plant	water
+fish
+buildings
+None
+None
+car	buildings	plant
+rope	plant
+car	wheels
+people	animal	buildings
+people	animal	buildings
+bird
+fish
+None
+ballon	people	sky
+people
+flower
+hand
+bird
+None
+people	water
+people
+flower
+None
+buildings	fun
+people	instrument
+coin
+fruit
+bottles
+None
+people
+fish
+glass	people
+bird
+animal	plant
+wool
+None
+glass	food
+animal
+flag	plant
+None
+buildings
+chair
+lamp
+road
+None
+lamp
+car	lamp
+planes
+animal
+animal
+animal
+animal	plant
+people	plant	fun
+animal
+sculpture
+None
+animal	plant
+fruit
+buildings	rope	rope
+people	plant
+people
+animal	plant
+monitor
+people
+people	animal	water
+fly
+None
+floor
+people
+glass
+bird
+bird
+buildings	plant
+people	plant
+None
+boat
+animal
+fish
+people	instrument
+drill
+car	plant
+fruit
+people	sunset
+buildings
+hill
+food
+machine
+animal
+None
+people
+fruit	plant
+people	animal	plant
+people	plant
+firework
+people
+glass
+None
+cans
+buildings
+people
+people
+people
+people
+people	balls
+animal
+bird	water
+butterfly
+people
+phone
+bottles
+adv
+None
+drill
+animal
+people	balls
+flower
+machine	wood
+animal
+bird
+people
+None
+flower
+ballon
+None
+moon
+people
+None
+flower
+None
+bird
+fruit	plant
+car	plant
+food
+people
+buildings	water
+animal
+people
+plant
+people
+food
+animal	plant
+lamp	people	water
+animal
+None
+windows
+butterfly
+butterfly
+people	rock
+None
+firework
+None
+wool
+animal
+adv
+sculpture
+shoes
+food
+food
+None
+flower
+lamp
+None
+table
+bird	water
+fruit
+lamp
+plant	road
+food
+None
+plant	people	animal
+people	hand
+lamp
+motor	people	plant
+None
+people
+bottles	glass	pot	dish
+InCar
+None
+buildings	windows
+plant
+toy
+animal
+animal
+animal	plant
+moon
+lamp
+mushroom
+None
+sky
+buildings
+plant
+food
+wool
+moon
+flower
+bird
+people	water
+None
+None
+lamp
+wool
+people
+people
+bottles
+shoes
+people
+flower
+None
+boat	water	sky
+sky
+fruit
+animal
+None
+ballon	sky
+clock
+moon
+glass
+None
+Wnetting
+None
+buildings
+lamp
+buildings	rope
+animal
+door
+None
+None
+None
+bird
+buildings	fun
+people	instrument
+animal
+animal
+people	plant
+people	plant
+lamp
+animal
+buildings	sky
+None
+animal	plant
+car	wheels
+cup
+None
+people	animal
+animal
+rope	hand
+book
+people
+None
+None
+animal
+ballon
+plant	sky	hill
+bird
+animal
+glass	food
+bird	water
+sculpture
+food	dish
+None
+adv
+pot
+buildings	fun
+animal
+None
+chair
+buildings
+people	glass
+moon
+digital
+IC
+digital
+food	pot	cup
+people	instrument
+animal	plant
+None
+animal
+glass
+plant
+flower
+drill
+tunnel	people
+food	dish
+ballon	people
+None
+animal
+animal
+IC
+bike
+car
+chair	glass	food	dish
+people	bike
+buildings
+lamp
+flower
+bed	animal
+instrument
+fish
+sculpture
+flower
+None
+flower
+bracelets
+None
+food
+animal
+food	dish
+hand
+animal
+animal
+buildings	door
+sofa	bike
+None
+flower
+car
+None
+people
+animal
+people	book
+None
+None
+animal	plant
+None
+None
+digital	keyboard
+bird
+buildings	fun
+None
+bike	snow
+None
+people
+chair	road
+book
+instrument	people
+animal	snow
+buildings	plant
+None
+None
+fly
+animal
+flower
+None
+None
+wool
+groove
+bottles	sky
+bird
+book
+windows	plant
+None
+lamp
+None
+wool
+wool
+glass
+food
+fish	coral
+buildings	chair
+moon
+buildings
+plant	flower
+animal
+plant	snow	buildings
+animal
+bird
+monitor
+None
+None
+None
+animal	people
+flower
+coral
+hand	wood
+bird	plant
+people
+plant
+plant
+food	pot
+None
+people	instrument
+None
+plant	buildings	snow
+None
+digital	keyboard
+digital	keyboard
+lamp
+bird
+people
+flower
+animal
+bottles	people
+None
+buildings
+animal
+animal	flower
+bottles
+plant	plant	buildings
+None
+plant	table
+animal
+flower
+book
+None
+None
+fruit
+bag
+bird
+food	pot
+people
+people
+None
+hand	people
+sculpture
+None
+None
+plant
+buildings
+water
+buildings	rope
+plant
+hand
+equipment
+buildings	plant
+buildings
+people	balls
+turtle
+flower
+people	animal	plant
+fly
+plant	car	people
+hand
+people
+None
+tunnel	people
+flower
+animal
+buildings
+plant	bird
+fish
+animal
+fish
+food	dish
+None
+bird
+fruit
+people
+fruit
+instrument	people
+animal	plant
+food	dish
+None
+buildings	people	car
+bird
+None
+balls	monitor
+glass
+people
+people
+table
+monitor
+people
+animal
+None
+cup
+animal
+dish	food
+None
+None
+tent
+food	dish
+None
+people	balls
+plant	buildings
+None
+None
+machine
+None
+plant	people
+None
+pen
+None
+camera
+bird
+car
+digital
+None
+None
+animal
+None
+instrument
+animal
+bird
+animal
+people
+food	dish
+fish
+wool
+toy
+people	glass	bottles
+people	snow
+people
+buildings	sky	plant
+shoes
+animal
+None
+flower
+bike
+None
+None
+flower
+None
+people
+buildings
+lamp
+people	snow
+None
+people	snow
+bird	plant
+snow
+bird
+people
+people	snow
+animal	people
+animal
+animal	people
+food
+animal
+people	snow
+dish	food
+bird	water
+wool
+None
+animal	plant
+food	dish
+lamp
+None
+None
+None
+flower
+animal
+people	instrument
+food
+bird	plant
+animal	plant
+car	snow
+None
+people
+people	instrument
+animal
+fly
+food	dish
+None
+None
+chair
+None
+people
+wool
+people	instrument
+None
+food	pot
+people
+IC
+sculpture
+instrument
+None
+flower
+None
+windows	lamp	buildings
+None
+clock	digital
+animal	snow	people
+None
+buildings	lamp
+hand
+animal
+lamp
+car	wheels
+stair
+bird
+phone
+car	people	wheels
+None
+None
+bird
+sculpture	animal
+clock
+None
+None
+lamp	cup	dish	food
+fruit
+fish
+bird	snow
+water
+None
+rope
+people	glass
+None
+wool
+bird
+animal
+balls	people
+animal
+people	instrument
+people
+people	buildings
+None
+animal
+plant
+toy
+clothes
+adv
+people	snow
+fish
+None
+people
+people	snow	plant
+Wnetting
+bird	water
+food	dish
+shoes	wool
+people	car	plant
+bird
+car	wheels
+plant
+bike
+people
+plant
+machine
+None
+fish
+book
+bird
+buildings	stair
+shoes
+people
+buildings
+people	snow	plant
+people	water	boat
+mushroom
+buildings	sunset
+car	wheels
+animal
+flower
+plant	adv
+animal
+people
+people	hand
+fish
+book
+bird
+animal
+Wnetting	adv
+flower
+people	instrument
+people	instrument
+animal
+boat	people	water
+water	buildings	lamp
+chair	table	windows
+Wnetting
+people	chair	lamp
+buildings
+balls
+firework
+machine
+book
+animal
+people	animal
+animal
+buildings
+None
+sculpture
+kite
+fish
+None
+food	dish	cup
+food	dish
+animal
+bird
+people	instrument
+instrument
+instrument
+metal	floor	wood
+bird
+animal
+None
+animal
+digital
+kite
+people	snow
+glass
+fruit
+ballon	people
+bird
+lamp
+plant	water
+None
+rock
+plant	animal
+machine
+lamp
+moon
+people
+clock
+flower
+people
+floor
+hand
+people
+equipment
+None
+people
+Wnetting	road
+flower	fly
+car
+buildings
+animal	plant
+animal
+train
+dish
+animal	plant
+None
+people
+sculpture
+None
+people
+bottles
+sculpture
+bird
+plant
+water	drill
+monitor
+food
+windows	curtain
+animal
+car
+None
+buildings
+book
+bird	plant
+people
+floor	windows
+bird	plant
+bird	water
+None
+None
+people
+wool
+animal	water
+plant
+None
+moon
+None
+wheels
+buildings	sky
+equipment
+instrument
+fly
+bird
+bird
+Wnetting	plant	car
+animal	plant
+fish	water
+bird	water
+sunset
+wool
+bird	water
+bike
+hand
+people	water
+None
+buildings	buildings
+buildings
+rope
+sculpture	sky
+flower	plant	people
+people
+people
+sofa
+None
+bottles	chair
+people
+animal	plant	plant
+fly
+monitor
+car
+phone
+animal	plant
+animal
+fly
+car	wheels
+buildings
+people	instrument
+people
+people	windows
+wool	clothes
+bird
+sky
+car
+animal
+people
+adv	digital
+people
+ballon	people	sky
+foot
+animal	plant
+people	water	boat
+people	canon
+None
+ballon	people
+people
+None
+people	instrument
+water	buildings	boat
+flower	plant
+None
+glass	food
+people
+balls
+flower
+flower
+glass
+people	instrument
+buildings	water
+glass
+bird
+None
+Wnetting
+glass
+car	buildings
+digital
+people	plant
+food	pot
+plant	people	animal
+buildings
+food
+bird	water
+None
+animal	plant
+groove
+flower
+None
+people	plant
+stair	tunnel
+plant	people
+digital	adv	windows
+digital	clock
+None
+buildings	people	bike
+toy
+monitor	digital
+snow
+bird
+animal
+None
+clothes
+animal
+car	wheels	people
+monitor
+bird
+digital
+None
+people
+None
+camera
+food
+people
+ballon	people
+animal
+animal	plant
+None
+people
+plant	flower
+people	plant
+fly
+animal
+wool
+car	wheels	plant
+None
+people	chair
+people
+people
+metal
+people	flag
+people
+flower
+food	dish
+people
+car	people
+flower
+None
+flower
+phone	camera
+fish
+animal
+people	plant
+wool
+flower
+chair
+food
+clothes
+moon
+plant	plant
+bird	plant
+people	plant	flag
+plant
+people
+animal
+animal
+sofa
+None
+food	dish	glass
+animal
+animal	plant	people
+people
+people
+people
+fish
+people	water
+people	bike	graffiti
+car	wheels
+plant
+buildings
+fruit
+car	wheels
+bike
+car
+people
+bottles
+flower
+sky	buildings
+animal	plant
+stars
+buildings
+Wnetting
+None
+people	animal
+plant
+people	plant
+instrument
+wool
+animal
+animal
+people
+food	dish
+animal
+people	boat	water
+people	adv	digital
+people	adv	digital
+None
+equipment
+food
+floor
+bird	water
+tunnel
+butterfly
+people
+adv
+hand
+flower
+fish
+fruit	dish
+fruit	dish
+buildings	people
+people	plant
+buildings	plant
+planes
+fly
+food	dish
+planes
+animal	plant
+people	animal
+None
+InCar
+plant
+people
+people	water	sky
+glass
+plant	plant
+buildings
+animal
+buildings	plant
+animal
+people
+plant
+fly	plant
+animal	windows
+chair
+bird
+flower
+camera
+bird
+fruit
+people
+people
+animal	plant
+None
+flower
+fly
+people
+bed
+people
+people	book
+None
+people	plant
+people	plant
+flower
+tent	people	plant
+InCar	people
+lamp
+buildings
+animal	toy
+people
+bag
+sculpture
+monitor
+water
+wanimal
+wanimal
+turtle	plant
+people	water
+flower
+butterfly
+buildings
+door
+bird	sky
+flower
+people	instrument
+lamp
+planes
+butterfly
+flower
+None
+toy
+animal	keyboard
+bird
+adv	plant
+flower
+buildings	boat	water
+bird
+None
+people	plant
+people	animal	plant	flag	car
+bottles
+bird
+people
+lamp
+animal
+windows
+bird
+firework
+glass
+car	floor	shoes
+butterfly
+firework
+firework
+buildings
+turtle
+None
+people	digital
+people
+pot	wood
+rock
+hand
+None
+fish
+flower
+flower	rope	plant
+animal
+clothes
+bird
+digital	groove
+animal	plant
+animal	plant
+rope
+animal
+car
+door	graffiti
+people	machine
+machine
+food
+ballon	people	shoes
+animal	people
+None
+ballon	people	plant
+plant
+windows	rock
+people	plant
+animal
+animal
+planes
+animal	plant
+animal
+planes
+buildings	plant	people
+butterfly	flower
+balls
+rock	buildings	windows
+animal	people
+bird	plant
+food
+glass	bottles
+food	dish
+bird	water
+people
+None
+buildings
+digital	adv
+chair
+windows	lamp
+people
+buildings
+bird
+bird
+animal
+boat	people	plant	water
+None
+table
+buildings
+bird
+toy
+people	animal
+people
+people
+people
+buildings	water
+people
+fish
+lamp
+bird
+animal	rock
+bird
+animal
+metal
+animal
+flower
+None
+None
+people	water
+car
+people	instrument
+animal	plant
+animal
+people	instrument
+bird
+bird
+planes
+buildings	windows
+animal
+animal	plant	fence
+flower
+people
+people	road
+people
+animal
+animal
+boat	water	hill
+animal	plant
+Wnetting
+fruit	dish
+IC
+animal	plant
+boat	water
+fish	coral
+lamp
+butterfly	plant
+animal	plant
+bird
+glass
+people
+fish	plant
+food
+water	rock	plant
+people
+wheels
+plant	car	people
+butterfly
+fruit
+people
+animal
+flower
+water	people
+people
+people
+flag
+flower
+flower
+people
+people	adv	digital
+adv
+good
+clothes
+animal
+None
+fly
+people
+lamp
+food
+firework
+sculpture
+drill
+people	instrument
+bottles
+people
+buildings	train
+people
+None
+plant	water
+camera
+people
+car	people	plant	plant
+glass
+flower	plant
+fish
+bike
+people	animal	plant
+people	plant
+plant
+wanimal
+toy
+fish
+bird
+None
+None
+bird
+people
+animal	plant
+buildings
+wood	plant
+camera
+animal	plant
+fly
+fruit
+clothes
+None
+planes
+wheels
+people	windows
+animal	plant
+shoes
+car	wheels	plant
+None
+butterfly	plant
+sculpture
+animal	plant
+people	bottles
+boat	rope	rope
+lamp
+bottles
+people	boat	water
+people
+food
+pot
+glass
+buildings	fun
+lamp	rope	room
+food	dish
+metal
+wool
+adv	digital
+plant	chair
+animal	plant
+animal
+people	plant
+food	dish
+fish
+boat
+None
+rope
+pot
+toy	Wnetting
+people
+people
+metal
+buildings	fun
+animal
+None
+people
+people
+graffiti
+people
+food
+people
+None
+canon
+people	instrument
+hand
+people	water	rock
+ballon	sky
+instrument
+None
+buildings
+people	rope
+IC
+bird
+people	good
+windmill
+people
+people
+people	water
+None
+fly
+chair
+animal
+digital	adv
+buildings	plant
+plant	sky
+buildings	plant
+fruit
+animal	people
+fly	plant
+animal	people
+drill	plant
+animal
+people	machine	plant
+people
+lamp	glass
+sofa	table
+people
+None
+knif	bottles	lamp
+windows
+animal	plant
+animal
+food
+people
+animal	plant
+people	buildings	plant	car
+people	buildings	plant	car
+animal
+None
+people
+fly
+wanimal
+planes
+material	windmill
+toy
+water	plant
+food	hand
+toy	good
+plant
+fruit	people
+people
+water	people
+digital	buildings
+wool
+buildings	water	buildings
+people	bike	plant	plant
+food	dish
+animal	plant
+bird
+people
+fresco	windows
+sculpture
+sculpture
+bird
+people	bike	plant
+buildings	people	car
+clothes
+fruit
+people
+people
+people
+people	bottles
+people
+people
+adv	digital	graffiti
+animal	plant
+animal
+camera
+buildings	sky	plant
+bottles
+table	windows
+flag
+planes	sky
+chair	people	tent	plant
+foot
+animal
+buildings	sky
+canon
+animal	plant
+people
+people	instrument
+animal
+sofa
+flower	plant
+shoes
+snow	animal	hill	plant
+glass
+camera
+people
+people	bike
+toy	lamp
+bird	water
+animal
+None
+fruit
+mushroom
+mushroom
+flower
+animal
+flower
+sculpture
+food	dish
+people
+InCar	train
+animal	plant
+animal	water
+food	dish
+buildings	rope
+moon
+people
+people	lamp
+people	bike
+car
+digital	adv
+good
+digital	adv
+people
+buildings	sky	plant
+animal	plant
+firework
+chair	lamp
+animal
+animal	fence	Wnetting	plant
+good	people
+food	dish
+planes
+planes
+IC
+car	people
+room
+None
+flower
+pot
+fish
+floor	buildings	people
+animal
+planes
+water	buildings	plant
+planes
+None
+digital	rock
+people	animal
+clothes
+car
+bottles
+None
+people
+food
+wanimal
+chair	people
+hill	sky
+people	water
+animal
+food	hand
+sky
+people	windows
+people
+glass	dish
+animal
+animal
+people
+food	dish
+fruit	plant
+mushroom
+plant
+clock
+people	table
+planes
+butterfly
+bracelets
+bag
+Wnetting
+people
+animal
+book
+tunnel	windows
+people
+people
+Wnetting	animal
+planes
+people
+fish
+glass
+people
+animal
+fruit
+buildings	fun
+planes
+fish	water
+animal
+plant
+people	plant
+animal	snow
+food	dish
+people
+train
+bird
+bracelets
+lamp
+fruit	plant
+car	monitor
+wheels	metal
+glass	flower
+train
+people	instrument
+fish
+car	toy
+people	wheels	animal
+coral	fish
+pot	metal
+bottles
+digital	adv
+plant	animal
+fresco	windows
+plant
+people
+people
+bird	plant
+plant	fly
+bike	fence
+None
+moon
+food	dish
+bird
+people
+rope	rope
+people
+lamp
+fly	flower
+planes
+car	wheels
+buildings
+None
+animal	plant
+animal
+windows	buildings
+camera
+people	dish
+fruit
+people	sky
+people	floor
+people
+rope	people
+food
+planes
+plant
+sunset
+people
+people	hand
+plant
+lamp
+plant	animal
+bottles
+car
+flower
+lamp	cup	glass
+sky
+people
+bird
+bird
+snow	plant	people	animal
+windows	table	floor
+food
+lamp
+lamp
+planes
+lamp
+rope	lamp
+None
+animal	fruit
+people	sofa	keyboard	monitor
+sky
+hand
+lamp
+car	plant
+plant
+None
+plant
+animal
+cup
+None
+None
+Wnetting	people
+boat	rope	snow
+Wnetting
+bottles	adv
+lamp
+buildings	windows	plant
+plant	people
+animal
+equipment
+digital	rock
+food
+flower
+animal
+people
+buildings	windows
+door
+plant
+equipment
+planes
+wool
+plant
+None
+windows
+bird	plant
+equipment
+buildings	lamp
+people
+glass	bottles
+moon
+cans
+mushroom
+Wnetting
+flower
+flower
+phone
+cup
+bottles
+sculpture	toy
+equipment	keyboard
+car	wheels
+balls
+lamp
+None
+glass	bottles	hand
+flower
+glass	hand
+glass
+car	wheels	people	sky
+adv	digital
+plant
+people
+people
+animal
+fruit
+wool
+fly	plant
+buildings	sky
+people
+animal
+animal
+people
+plant
+fish
+phone	digital
+food
+equipment
+animal
+digital
+dish	food
+car	wheels	sky
+glass
+adv
+glass
+people	instrument
+animal
+bird
+mushroom	plant
+moon
+bird	water
+buildings
+buildings	fun
+bird
+people
+food	dish	cup
+food
+animal
+animal
+graffiti	animal
+animal
+planes
+lamp	people
+animal
+animal
+lamp
+wool	people
+cans	hand
+bird	plant
+food	dish
+digital
+sky	plant	plant
+None
+door
+flower
+people
+buildings	sky
+toy
+None
+people
+fly
+digital
+adv	windows	digital
+adv	digital
+hand	instrument
+buildings
+plant	plant	buildings	car
+fruit	adv	digital
+fish
+planes
+planes
+None
+car	plant
+plant
+rock	plant
+boat	water	buildings
+animal
+snow
+people
+fish
+None
+people
+people	snow
+animal
+animal
+phone	digital
+toy
+chair	shoes
+moon
+door	buildings
+food
+plant
+door	rock
+lamp
+snow	tunnel
+None
+people
+None
+water	people
+bird
+flower
+flower
+tunnel	people	fence
+monitor	people	windows
+people	phone
+digital	adv	people
+sky	water	people
+train	plant
+lamp
+buildings
+camera	people
+bird
+plant
+flower	plant
+glass
+sky	buildings
+people
+bird	sky
+pen
+digital
+animal
+bird
+animal
+fly
+snow	chair
+fruit
+food
+animal	plant	sky
+flower	plant
+animal	plant
+planes
+digital	fence
+car
+people	balls
+adv	digital	people
+toy	people
+None
+glass	bottles
+buildings
+groove	buildings	plant
+animal	plant
+None
+buildings	windows	people
+animal
+camera
+people
+toy
+balls	rope	people
+digital
+buildings
+wheels
+clock
+people	instrument
+buildings
+plant	animal
+lamp
+water	plant	buildings	windows
+people
+car	plant	snow
+people
+animal
+train
+metal
+people
+planes	sky
+bird	plant
+buildings
+lamp
+people	balls
+animal	plant
+animal	snow	plant
+buildings	lamp
+plant
+metal
+plant
+flower
+animal	snow	plant
+clothes	digital
+bird
+None
+food
+digital	adv
+bird
+sculpture
+lamp
+plant	snow
+people
+people
+plant
+food	dish	hand
+animal	plant
+plant
+balls
+car	wheels	plant
+flower
+balls
+animal	snow
+knif
+bird
+door
+animal
+planes
+IC
+digital	train	adv
+balls
+people
+metal	door
+lamp
+fish
+buildings
+fruit
+toy
+buildings	windows	door
+fruit
+digital	lantern
+plant	water
+foot
+animal
+lamp
+None
+bird
+bottles
+car
+None
+plant	snow
+bird
+animal	plant
+bird
+food
+machine
+groove	plant
+car	wheels
+rope
+None
+animal
+bird
+food	dish
+adv
+instrument	people
+metal	wheels
+firework
+train	sky
+fly
+bracelets
+snow	people	animal	plant
+table	plant
+plant
+plant	hill	sky
+food	dish
+animal	plant
+people
+food
+flower
+people	animal	plant
+animal
+food
+food	dish
+Wnetting	plant
+fruit	plant
+sofa	people
+rock
+moon	sky	hill
+people
+people
+bird	water
+monitor	people
+car	snow
+people	cans
+animal	snow	plant
+food	dish
+buildings	bird	sky
+fish
+fish
+adv	digital
+good	bag
+chair	floor	windows
+animal	snow
+people	snow	windows
+people
+snow	shoes	people
+rock
+graffiti
+people	equipment
+coin	metal
+plant	animal
+balls	people
+people	chair
+people
+food	hand
+planes
+car	people
+firework
+food
+planes
+equipment
+good	shoes
+camera
+bird	plant
+people
+glass	cans
+buildings
+table	people	adv	digital
+bird
+water
+windows
+people	instrument
+adv
+animal
+animal
+water	sky
+moon	plant
+bike	rope
+toy	book
+water
+people
+animal	plant
+people	balls	rope
+ballon	sky
+sunset
+buildings	car	wheels
+lamp	people	floor
+cup	dish	food
+tent	plant
+animal	snow
+wanimal	fish
+animal	plant	plant	sky
+snow
+plant
+toy	car
+room	curtain
+plant	groove
+bird	plant
+people
+car
+sky	plant
+people
+people
+lamp
+snow	buildings	sky	plant
+lamp	rock
+mushroom
+boat	water	bird
+bird
+kite
+car	wheels	snow	plant	people
+windows
+None
+fish	rock
+wanimal
+camera
+car	wheels
+people
+planes
+instrument	people
+animal	plant
+people
+people
+animal
+digital	adv
+stair	adv	digital	plant
+buildings	plant	sky
+animal
+plant	animal
+bracelets
+shoes
+animal
+animal
+people
+buildings	windows	lamp
+people
+plant	people	plant
+flower
+people
+animal
+people
+people	table	chair
+food
+people
+buildings	car	snow	adv	people
+good	bag
+water	bird
+plant
+car
+plant
+stars
+camera
+people	rock	plant
+buildings	windows
+fruit
+glass	food	dish
+people	lamp
+plant	car	people
+windows
+camera
+instrument	people	lamp
+people
+bird
+plant
+people	sky
+animal
+people	instrument
+plant	buildings	snow
+adv	people	digital
+flower
+animal
+planes
+people
+shoes
+cans	hand	glass
+plant	people	fence
+None
+planes
+car	plant	snow
+animal
+flower	fly
+ballon	people	lamp
+people
+people	plant
+machine
+plant	snow	buildings
+people
+animal
+people
+people
+fruit
+rope	plant
+candle
+buildings
+food	dish
+people	lamp
+snow	people	chair	plant
+metal
+cans	digital
+people
+chair	windows
+floor
+plant	snow
+flower
+glass	digital
+toy
+bottles	digital
+digital
+buildings	people
+plant
+lamp
+flower
+lamp
+door
+animal
+food
+table
+people	toy
+wool
+lamp
+cans
+food
+people	plant
+people	plant	car
+metal
+flower
+rope	rope
+animal	snow
+butterfly
+bird
+toy	train
+foot
+hill
+buildings	train
+people	animal	plant
+fish
+adv
+None
+wheels	car
+animal	snow
+food	dish
+car	wheels	people
+buildings	water
+people
+people
+people
+people
+buildings	sky
+people
+machine
+camera
+butterfly
+people
+stair
+food
+animal	plant	buildings	plant
+flower
+plant	shoes
+fish
+animal
+glass	windows	dish	room
+glass	windows	dish	room
+people
+sky	water	plant	people
+table	plant	chair	room
+door
+stars
+bike
+people	hill
+fish
+cup
+monitor	keyboard
+fresco
+rock
+animal
+animal
+bird	water
+moon
+bird
+plant
+flower	toy
+clothes
+food
+instrument	hand
+people
+car	people
+people
+people
+None
+metal	cup
+Wnetting
+plant
+phone
+turtle	plant
+plant	animal
+glass
+shoes	people
+animal
+glass
+train	hill	rope
+buildings	people	sculpture
+train
+plant	animal
+buildings	clock
+plant	snow
+people
+good	people	fruit	lamp
+toy
+people
+car	wheels
+bottles
+candle	lamp
+animal	plant
+rock
+people
+None
+ballon	people
+boat	water	rope	rope
+coin	metal	digital
+equipment
+lantern	sky
+cup	bottles
+bird	rock
+people
+planes
+shoes	snow	people
+lamp	table	chair
+people
+people	canon
+None
+None
+None
+good	lamp
+fly	plant
+toy
+pot
+people	plant
+None
+people
+buildings	plant
+buildings
+bird	water
+food
+people
+plant	sky
+butterfly
+ballon
+people
+groove	plant	sculpture
+moon
+people
+people	plant
+fruit
+bike	people
+wool
+equipment
+food	dish
+wheels
+fish	plant
+stars	plant
+animal
+machine
+None
+plant
+bird
+flower
+fly
+animal
+plant	snow	people
+glass
+floor
+equipment
+fly
+flower
+camera
+animal
+book
+car	stair	buildings
+plant	people
+buildings	rope
+InCar	people
+animal
+buildings	clock
+rope
+plant	plant	car	wheels
+balls	buildings	people
+lamp
+toy
+adv	digital
+good	people
+sky	planes
+plant
+flower
+people
+people
+glass	fresco	curtain
+tunnel	lamp	buildings
+people	instrument
+adv	people	digital
+lamp	people
+people
+food	dish
+sky	plant	buildings	fence
+adv
+food	dish
+people
+people	canon
+animal
+chair	wood
+InCar	people
+plant	animal
+room	lamp	curtain	table
+instrument
+adv
+people	balls
+plant
+car
+wool
+sky	rope
+water
+glass
+planes
+animal
+monitor
+bird	plant
+animal
+sculpture	rock
+rock
+people	plant
+plant	plant
+Wnetting	animal
+people
+bottles	glass
+sculpture
+sculpture
+instrument	people
+sky	buildings
+fish
+buildings
+fruit
+moon
+None
+good	adv
+people
+animal
+boat	water
+sculpture
+fly
+lamp
+water	boat	people
+material
+food	dish
+fly
+flower
+drill	plant
+windows
+None
+people
+bird	snow
+animal
+bird
+plant
+buildings
+animal
+animal
+snow	people
+buildings	plant
+car	adv	digital
+fish
+table	people	curtain
+train
+clock
+sculpture
+bird	water
+drill
+animal	plant
+people
+balls
+plant	buildings
+water	boat	animal
+bird
+buildings	people
+moon
+plant	animal	rope
+people
+people
+fence	curtain
+animal
+people
+fence	lamp
+people	water
+buildings
+people
+plant	people	bird
+plant	animal
+car	plant	wheels
+room	floor
+planes
+people
+food
+water
+car
+fish
+fish
+plant	buildings	snow
+sculpture
+hand	phone
+lamp
+plant
+people
+fly
+planes
+people
+animal
+people
+buildings	windows
+cup
+instrument	people
+people
+coral
+people
+people	stair
+fish	rock
+rock
+food	dish
+planes
+food	dish
+Wnetting	sky
+animal	plant
+glass	rope
+fly	plant
+rock
+motor	plant
+sculpture	plant
+bird	water
+ballon	sky	people
+phone
+bottles
+sculpture
+motor	car	people
+buildings	windows	people
+people	table	bottles	glass
+people
+buildings	windows	rope
+ballon	people
+food
+fish
+people	plant
+animal
+car	wheels
+None
+food	dish
+room	glass
+moon
+animal
+animal	plant
+plant
+animal
+planes
+planes
+bottles	adv	digital
+people
+people
+buildings	plant
+water	people
+flower
+hand
+food
+animal
+rope	rope
+train
+animal
+plant
+animal	people
+plant	people
+plant	people
+animal
+plant	rope
+animal
+buildings	windows
+plant	car	people
+flower	plant
+bird
+food	dish
+people	sofa	lamp
+flower
+buildings
+plant	animal
+buildings	water
+car	wheels	adv
+people	camera	stair
+people
+car	wheels	plant
+tent
+lamp
+people	water	rope
+buildings	fence	people
+buildings	windows	sky
+people	flower	curtain
+plant
+bike	car	plant
+plant
+animal	animal
+buildings
+windows
+people	door
+people
+bird
+people
+buildings
+bag
+car
+bag
+adv	people	digital
+fly
+adv	plant	car	digital
+people
+people
+road	plant
+food	dish
+fly	plant
+fly
+people	bike	buildings	windows
+flag	rope	sky	sculpture
+None
+flower	plant
+wool
+None
+flower
+sculpture
+clothes
+instrument	people
+people
+people
+people
+food	glass	dish
+people
+book	table	people
+people
+people
+windows	fresco	buildings
+people
+people	water
+bed		boat
+tent	plant	people
+people
+animal	plant	hill
+None
+plant	animal
+plant	bird
+pot	bottles
+lamp	buildings
+instrument	people
+fence
+people
+None
+food
+balls	people
+people
+bird
+fruit
+fruit	food
+lamp	people
+bird
+fruit
+bird	plant
+people
+people
+lamp	buildings	digital
+door
+animal
+food	dish
+bottles	digital
+animal
+rope
+bird
+toy	curtain	people
+animal
+animal
+people
+people
+lamp
+flower
+lamp
+bird	water
+sculpture
+people
+animal
+adv	train
+people
+people
+people
+wood
+digital	people
+buildings	windows
+IC
+people
+flower
+phone
+sculpture	buildings
+people	lamp
+adv	digital
+people
+people	balls	shoes
+fly
+bird	rope
+equipment
+plant
+bird	water
+water	people
+equipment
+balls	adv
+plant	bike	people
+plant	people	sky
+people
+fruit	adv	digital
+pot
+animal	snow
+animal
+cup	digital
+clothes
+people
+animal
+InCar
+people
+flower
+chair	people
+good
+equipment	hand
+bird	plant
+rock	plant
+animal
+animal
+stair
+None
+sculpture
+plant	plant	animal
+bird
+bird	plant
+bird	plant
+fish
+people	buildings	Wnetting
+bird
+people
+people	water
+people
+animal	water
+food
+bird
+people	digital
+flower
+food
+digital
+planes	people
+flower	shoes
+people
+butterfly
+table	adv	digital	people
+people
+lamp
+bird
+flower	fly
+bird
+people	rope	adv	digital
+curtain
+rock	plant
+rock	people
+animal
+InCar	clock
+car	wheels	plant
+cross	buildings	bird
+people
+glass	people
+wheels	car
+fish
+bottles
+flower
+fly
+people
+buildings
+animal
+adv	digital
+glass	lamp
+food	dish
+people
+buildings
+planes
+ballon
+people	buildings
+windows
+door
+flower
+buildings
+camera
+flower
+bird
+chair
+plant	animal	plant
+car	wheels	Wnetting	buildings
+people
+bird
+adv	digital	people
+buildings	sculpture
+animal	plant	food
+fruit
+animal
+people	hand
+car
+stair
+animal
+animal
+animal
+balls	people	rope
+boat	rope	rope	sky	water
+plant	sky
+plant	sky
+windows
+fish
+people
+water	people	balls
+people
+animal
+animal
+people	fruit
+bike
+boat	water
+animal	plant
+flower
+bird	water
+animal	fruit
+fly
+fruit
+buildings	sculpture
+camera
+food	people
+flower
+buildings	sky
+wood
+bottles	cans
+people
+toy
+people	hand	foot
+plant	bird
+rope
+wool	toy
+bike
+rock	digital
+monitor	equipment	equipment	keyboard
+InCar
+plant	boat	people	water
+people
+cup
+people
+buildings	water	buildings
+animal
+instrument	people
+rope
+road	Wnetting	people
+ballon
+monitor	keyboard	equipment	equipment	bottles
+sculpture
+bird
+people	fence
+plant
+planes
+people
+bike	plant	buildings	plant
+food
+fish	rock
+flower
+clothes
+people	lamp
+people	rope
+shoes
+bag
+bag
+equipment
+lamp
+bird
+car	people
+rope	rope
+animal
+bird
+rope	people
+adv	digital
+animal	plant
+adv	digital
+people
+plant	people
+bird
+plant	plant	people	animal
+Wnetting	buildings	windows
+buildings
+plant	animal
+firework
+firework
+plant	water
+sky	rope	plant
+firework	plant
+planes
+planes
+equipment
+people	instrument
+buildings
+firework
+firework	plant
+animal	people	Wnetting
+None
+bird
+sunset
+fish
+people	plant
+lamp
+animal
+animal	sofa
+foot
+people
+people
+boat	rope	water
+food
+people	bottles	glass
+wool
+people	plant
+wool
+food	dish	hand	glass
+cup	digital
+animal
+plant	people
+stars
+people	bottles
+bird	sky
+people	canon
+food	flower	digital
+plant	people
+InCar	hill	car
+ballon
+plant	people	animal
+sky	planes
+wool
+None
+people
+sculpture
+animal
+kite
+animal
+equipment
+shoes
+flower	plant
+monitor
+bottles	adv
+people
+buildings	plant
+monitor	instrument	people
+None
+animal
+buildings	glass
+good	adv	digital
+flower
+bottles	adv
+people	rope
+wanimal
+food
+people
+people
+people	cup
+plant	people
+water	fish
+bottles	adv	glass
+people
+flower
+plant	people
+animal
+food	dish	cup
+bird
+flower
+flower
+ballon	sky
+rock
+toy	balls
+people
+rock
+animal
+None
+animal
+animal	plant
+animal	people
+Wnetting	animal
+equipment
+Wnetting	people
+boat	people	water
+bird
+bird	snow
+plant	animal
+rock
+sunset
+plant	road	sky
+people
+plant
+car	plant	windows	buildings
+rock
+toy	car
+bird	water
+animal	plant	plant
+fish
+animal
+people
+fish
+sunset
+fish
+animal	plant	water
+glass
+boat	people	water
+fly
+flower
+fish
+flower
+buildings	plant	windows
+bird	boat	water
+people	instrument
+plant	animal
+food
+planes
+people
+cup	food	dish
+snow	animal	people
+snow	animal	people	plant
+IC
+planes
+water	bird
+plant	buildings	people
+camera
+firework
+people
+rope
+food	dish
+bottles
+planes	bird
+buildings
+animal	plant	plant
+food	dish
+shoes
+flower
+sculpture
+lamp	adv	bottles	glass	sculpture
+digital	equipment
+plant	flower
+people	lamp
+car	wheels
+fruit
+fish
+None
+fly	plant
+buildings
+buildings
+car	people	planes
+bird
+sky
+plant	people
+car	wheels	plant
+bird	plant
+firework
+car	plant	car
+None
+ballon
+people
+people
+people	book
+InCar	people
+car	people
+people
+None
+animal	chair
+wood	lantern
+car	wheels	plant	people
+wood
+moon
+glass	table	chair	curtain	windows
+people	water	buildings
+fly	digital
+good	windows	lamp
+people
+tunnel
+clock	InCar
+people	water
+flower	plant
+hand	animal
+butterfly	plant
+planes
+flower
+sculpture
+plant	buildings	adv	digital
+Wnetting	people
+buildings	windows
+planes
+camera
+bird
+plant
+glass
+glass	bottles
+people	instrument
+hand
+people
+people	instrument
+instrument
+car	plant	plant	buildings
+adv	people	digital
+animal	plant
+people	lamp
+plant	bird
+instrument
+motor
+people
+flower
+people
+balls	people
+people
+flower
+people
+animal
+fish
+bird
+stars	plant	road
+door	people	adv	digital
+sofa	animal
+people
+food
+people
+people	plant	tent
+flower
+people	car	wheels	stars
+food
+people
+stars
+lamp
+people
+windows	sculpture	people	buildings
+planes
+people
+bike
+bird
+plant	water	flower
+instrument	people
+food
+bird	plant
+bird
+stars
+planes
+people	adv	digital
+boat
+buildings	fun
+animal	plant
+bird
+water
+planes	sky
+sky	buildings
+bottles
+fruit
+people	plant
+buildings	windows	clock
+car	wheels
+hill
+equipment	digital
+instrument	people
+firework
+adv	digital
+plant	animal
+food
+people
+animal
+mushroom
+fruit
+stair
+fish
+shoes
+firework
+people
+car	wheels	people
+plant
+fly
+hand	people
+shoes	people
+bird
+butterfly	flower
+sculpture	wood
+animal
+fly
+rock
+stars
+hand	people
+bed	chair
+Wnetting
+flower
+fish
+animal	snow
+bird	plant
+buildings	lamp
+animal	water
+camera
+fly
+bird
+road	sunset	people
+people	snow	plant
+fish
+people
+people	rope
+food	dish
+car	wheels	plant
+wanimal
+butterfly
+sculpture
+wool
+plant	plant	people
+bird	water
+moon
+buildings	windows
+animal
+food	dish
+Wnetting	animal
+animal	people
+plant	animal
+animal
+plant	buildings
+table	people
+people
+fly	plant
+animal
+animal	plant
+bird	water
+animal
+machine	wheels
+plant	people
+fruit	glass
+plant
+tent	people	flag	plant
+fish
+firework	people
+plant
+buildings	plant	windows
+rock
+food	glass
+bird	plant
+ballon
+adv	digital	people
+bottles
+water
+people
+food	dish
+fish	rock
+flower
+plant	bird	plant
+instrument
+lamp	machine
+animal
+bird
+turtle
+chair
+flower
+animal
+buildings	plant
+plant
+hand
+plant	animal
+butterfly
+chair	people	curtain
+food	dish
+bird
+firework
+toy	animal
+planes
+plant
+buildings	windows
+camera
+Wnetting	animal
+monitor
+plant	people
+water	people
+people	plant
+hand
+buildings	windows	plant
+water	bird
+toy
+drill	machine
+floor	room
+butterfly
+butterfly	plant
+glass	curtain
+animal	plant
+flower
+flag	people
+people	water
+bird
+bird	water
+lamp
+plant	water	buildings
+sky	water	plant
+bottles	adv	digital
+plant	animal	plant
+buildings	buildings
+plant	people
+people
+people
+animal
+fish
+animal
+people
+fish
+None
+people
+rope	sky
+water	people
+pot
+plant	animal
+flower
+animal
+animal
+plant	water
+buildings
+animal	plant
+people
+people
+sky
+plant	car
+buildings	flag
+rock	people
+glass
+people
+plant
+lamp
+animal	plant
+plant	animal	shoes
+people	curtain
+animal
+stars
+curtain	people
+firework
+buildings
+food	bottles
+animal	plant
+fruit
+train	plant
+cans
+people
+car
+train	people
+plant	animal
+people
+rope
+flower	plant
+buildings
+plant	water	people	boat
+curtain	people
+curtain	people
+people
+sunset	water
+people
+rock
+animal
+flower
+buildings	boat	rope
+people	lamp
+planes
+plant	plant
+people
+people
+people
+flower
+food
+equipment
+plant	animal
+rope	digital
+flower
+animal	plant
+people
+camera
+rock
+lamp
+flower
+sky	buildings
+adv	buildings	people
+None
+people
+balls	digital
+people
+water	people	boat
+animal	plant
+people	plant
+None
+people
+planes	sky
+car	people
+fly	plant
+animal	plant
+fly	flower
+lamp	people
+ballon	people
+people	plant	buildings
+people
+people	instrument
+sky
+water	people
+rock	people
+plant	buildings
+bike	people
+road
+butterfly	plant
+buildings
+plant	animal
+pot
+flower
+adv	people	digital
+rock
+fly
+fly
+flower
+sunset
+shoes	people	hand
+food
+flower
+balls
+animal
+people
+adv	digital
+windows	buildings
+animal
+animal	plant
+bird
+buildings	windows
+buildings	windows
+bird	water
+animal	plant
+people	plant
+glass	fruit
+water
+animal	plant
+car
+lamp
+firework
+rope	people
+firework
+room	cross	flower
+plant	windows	car	people	plant
+bird
+people
+animal
+bottles
+people
+planes
+stair	fence
+food	dish
+buildings	lamp
+flower
+wheels
+people
+fish
+wanimal
+fish
+digital
+car
+animal
+animal
+stair	train
+digital	adv
+Wnetting	animal	plant
+buildings	plant
+food	dish
+sky	people	plant
+dish	food
+dish	food
+lamp
+None
+fish
+door
+people
+flower
+animal
+planes
+animal	plant
+animal
+animal
+people
+people	fresco
+animal
+animal	plant
+flower
+fly
+animal
+plant	bird
+rock	bird	animal
+tunnel
+fish
+butterfly	flower
+tunnel	lamp
+plant	fence	plant
+boat	water	sky
+flower	glass
+shoes
+people
+buildings	windows	plant
+coral	fish
+plant
+animal
+bird
+flower	plant
+bird
+animal	plant
+people	rope
+people
+people
+graffiti
+bag	adv	digital	pot	rope
+plant	water	people
+animal	plant
+None
+medicine
+monitor
+plant
+animal	water
+food
+clock
+car	wheels
+planes	lamp
+fresco
+water	people
+animal	plant
+fish
+ballon	sky
+motor	people	plant
+animal	plant
+fruit
+stars	rope	plant	rope
+chair	people
+flower	plant
+butterfly	plant
+plant	animal
+plant	people	plant
+plant
+water	people	balls
+digital	door
+bird
+camera
+car
+wool	animal
+sky
+food
+moon	sky
+clothes
+lamp	people
+people
+plant
+stars
+people
+instrument	people
+people
+flower
+food
+buildings	sculpture	sky
+food
+plant	people	tent
+people	plant
+animal
+animal	plant
+bird
+flower	plant
+book
+rock
+fruit	people	plant
+people	lamp
+food	dish
+ballon
+car	wheels
+coral
+flower	buildings
+bird	plant
+lamp	instrument
+people
+car	wheels	buildings
+food	people	hand
+plant	buildings	windows
+people
+people
+adv
+lamp
+people
+car	wheels
+wanimal
+people
+animal	plant
+shoes
+flower
+animal
+plant
+plant
+animal
+toy
+pot
+people
+plant	bird
+car	plant
+people
+water	plant
+train	plant	plant
+people
+chair
+water	sky
+plant
+bird
+plant
+sculpture
+people
+people
+machine
+buildings	sky
+wool
+buildings
+people
+car	wheels	buildings	adv	people
+fly	plant
+cup	hand	glass
+book
+plant	people
+food	dish
+fence	water
+people
+people	rope
+people	rope
+people
+fish
+plant	flower
+toy
+animal
+people
+people	plant	plant
+people	rope
+people	instrument
+plant	moon
+animal	snow
+buildings	people	lamp
+plant	buildings	chair	windows	door
+room	door
+machine
+buildings	windows	car	people	plant
+people
+plant
+people	flag
+InCar	clock
+buildings
+IC
+animal	plant
+fish
+shoes
+animal
+flower
+fish
+fish
+bottles
+lamp	people
+book
+animal
+people	book
+animal
+fish
+plant	fence
+plant	butterfly
+instrument	people
+train
+rock
+people
+None
+chair	table	dish	room
+people
+plant	moon
+people
+bottles
+car
+food	balls
+cans
+chair
+food	hand
+animal	rock
+bird
+people	plant
+people	glass
+shoes
+shoes
+snow	animal	animal	people
+curtain	people
+bird
+car
+car	people	plant
+planes
+people
+equipment
+buildings
+food
+animal
+plant	sky
+plant
+pen
+people	lamp
+plant
+sky
+adv	digital
+plant
+animal
+bottles	adv	digital
+rock
+people	wheels
+people
+lamp
+instrument	people
+IC
+plant
+people
+wood
+food	dish	glass
+plant
+motor
+bird
+people	water
+Wnetting
+animal
+glass	bottles	adv	digital
+people	toy
+food
+lamp
+buildings	windows
+adv
+good	adv	digital
+rock
+rope	people
+firework
+car	buildings	people
+people	rope
+sculpture
+people	turtle
+adv	digital
+train	plant
+sky	train	plant	people
+people	water
+food
+bird	water
+people
+fish
+moon	hill
+people	cans
+adv	digital	people	buildings
+lamp
+animal	snow
+animal
+bird
+mushroom	plant
+bird	hand
+animal
+animal
+buildings
+animal
+food	people	kite
+people	instrument
+butterfly	flower
+buildings	plant
+food
+flower
+bird
+people	adv	digital
+fruit
+bed	people	lamp
+people	curtain
+animal
+people
+people
+None
+toy
+mushroom	plant
+food
+machine	plant
+people
+car	people
+adv
+people	plant
+people
+people
+people
+chair
+people
+wool
+IC
+adv
+bike
+None
+people
+glass
+pot
+buildings	sky
+plant	bird
+planes
+None
+adv	digital
+wood
+machine
+plant
+sculpture
+moon
+people	toy
+people
+plant	water	fish
+animal	plant
+car	instrument	people
+bike
+bird
+bottles	lamp
+people	toy
+fish
+people
+glass	lamp	bottles
+buildings	plant	sky
+people
+glass
+people
+toy
+animal	Wnetting	buildings
+people	plant
+people
+animal	plant
+people
+people
+food	dish
+buildings
+sculpture
+lamp
+toy
+animal
+people	rope
+stair
+animal	plant
+planes
+buildings	windows
+toy
+good
+buildings	people	door
+animal
+people
+animal
+cup
+animal
+Wnetting	people
+None
+people	buildings	windows
+toy
+plant	rope	plant	animal	plant
+clothes	hand
+bottles	adv	digital
+people	plant
+train
+boat	rope	rope	sky
+people
+lamp
+lamp
+food
+food
+hand	animal
+food
+instrument	people
+plant	sky	plant
+cans
+good
+shoes
+people
+buildings	water
+None
+animal	people	plant
+door
+plant	animal
+buildings	plant	car
+people	cans	glass
+plant
+butterfly
+lamp
+hill	sky	water
+bird
+people
+buildings	sculpture
+food	people	dish
+car	wheels
+people
+people
+rope
+rock
+butterfly	plant
+animal	plant
+lamp
+hill	sky	people
+animal
+plant
+bottles
+tunnel	buildings
+bottles	glass	dish	food
+animal
+sculpture
+buildings
+bird
+plant	people	balls
+adv	digital
+fly	plant
+wool
+food	dish
+animal
+fish
+animal	plant
+plant	sky	stars
+coin
+bottles
+bottles	adv	digital
+pot	glass
+bottles	animal
+animal
+fly	flower
+animal
+windows	buildings	door
+people
+cans	people
+bird
+equipment
+fresco
+toy	digital
+plant
+people	instrument
+animal
+car	people
+animal
+plant
+planes
+people	rope	windows	lamp
+bottles
+fish	people
+snow	animal	shoes
+chair
+animal
+people	buildings
+clothes	door
+book	digital
+people
+flag	people
+flag	people
+lamp
+glass
+chair	lamp
+food
+plant	people
+hand
+boat	sky	rope
+people
+lamp	people	door
+sculpture
+people	glass	dish
+buildings	water	boat
+buildings	plant
+animal
+fish
+people
+people	lamp
+wood
+None
+plant
+None
+buildings	rope	sky
+flower
+people	digital
+camera
+buildings	plant
+bird
+buildings
+people
+people
+rock
+rope	animal
+Wnetting	sculpture
+buildings
+rock
+Wnetting
+buildings	plant	windows
+hill	plant
+toy
+chair	plant	plant
+buildings
+car
+fruit
+people	animal
+bottles	adv	digital
+car	wheels	lamp
+flower
+flower	plant	buildings
+flower	plant	buildings
+people
+animal	plant
+flower
+buildings	car
+car
+plant	snow	buildings
+adv
+buildings	windows
+animal	snow
+flower
+bird
+bottles
+snow	animal
+people
+camera
+people
+animal
+animal
+people
+cup	animal
+snow
+bottles
+flower
+buildings	lamp
+equipment	digital
+rock	plant	sky
+buildings	windows	plant
+animal
+car	people
+equipment	instrument
+animal
+bracelets
+people	snow
+bird
+people	instrument
+bird
+pot
+lamp
+flower	fly
+plant
+lamp
+cup	dish
+people	lamp
+people
+flower
+canon	hand
+camera
+None
+animal
+people
+buildings	windows
+food	hand	fruit
+boat	water
+animal
+food	dish
+machine
+people	plant
+food
+shoes
+sculpture	buildings
+people
+people	chair	windows
+buildings
+stars	plant
+instrument
+room	rope
+coral
+people	pot	glass	cans	bottles	dish
+fly
+plant
+fruit	adv	digital
+bike	door
+people
+people
+flower	plant
+animal	plant
+people
+people
+car	wheels
+people
+digital
+wool	hand
+sky	water	plant
+plant	people
+people
+None
+people
+plant	animal
+animal	fence	plant
+adv	digital
+people
+clothes
+fruit
+plant	animal
+fence	people	snow	rope
+glass
+people
+keyboard
+glass
+rope	people
+camera
+flower	plant
+rope	car	rope
+people
+lamp	water
+table	cup
+water	bird
+animal
+equipment
+fly
+glass	knif	flower	dish
+water	bird
+hill	sky	water
+glass	digital
+people
+wool	plant
+sculpture
+people	balls
+None
+plant	animal
+glass	dish
+bird
+buildings	windows	fresco
+animal
+fruit
+animal
+cup	wood
+food	pot
+buildings
+fence
+lamp	people
+animal
+people
+people
+bird
+monitor	people	sofa
+planes
+animal
+clothes
+people	monitor
+flag
+monitor	keyboard
+food
+sculpture
+sunset	water
+sculpture
+flower
+flower
+rope	plant	sky	rope
+bird
+None
+plant	animal
+bird
+fish
+room
+toy
+water	boat
+fruit
+monitor	people
+people	fish
+bird
+people	rope
+water	bird
+food	animal	dish
+bike
+snow	plant	people
+car	people	adv	digital
+animal
+foot
+car	wheels
+bird
+lamp	people
+bird	rope
+instrument	people
+curtain
+book
+plant	people	snow
+plant
+people	flag
+people
+animal
+turtle	water
+Wnetting
+planes	sky
+animal
+bird	plant
+fruit
+people	plant	lamp
+water	boat	people
+None
+sunset	buildings
+shoes
+water	people	boat
+bird
+sculpture
+car	plant	people	wheels
+rope	buildings	plant
+hand
+buildings	windows
+flower
+people	curtain	food
+food
+moon
+food
+people	canon
+curtain	people
+sofa
+table	people	lamp
+adv	digital
+sky	plant	hill
+plant
+plant	flower
+food	dish	glass	bottles	people
+animal
+plant	animal
+fly
+people	flower
+stair	people
+material
+food	dish
+people
+windows	fresco
+buildings	windows
+plant
+people
+sculpture	lamp	buildings
+pen
+buildings	plant
+digital
+boat	people	water	sky	rope
+flower
+flower
+pen
+bird
+None
+lamp	fish
+buildings	plant	people
+water
+book
+flower
+bike
+animal	people
+curtain	lamp
+people
+plant	animal
+people	digital
+glass
+pot
+floor
+buildings
+None
+floor	plant
+snow	animal
+tent	people
+bird	plant
+animal
+flower	plant
+None
+car	people
+windows	sofa
+people
+people
+people
+rope
+animal
+bottles	glass
+motor	people
+food
+train
+None
+cup	dish
+plant	animal
+rope	good
+buildings	windows
+floor	shoes
+bottles
+adv	food
+people
+None
+buildings	plant	plant	adv	rope
+flag
+people	buildings
+flower
+water
+clothes
+train
+people
+sky
+sculpture
+animal	people	plant
+bird	plant
+bike	shoes
+planes
+None
+bird
+animal
+Wnetting	sky
+flag	train	plant
+people
+bike
+buildings	clock	windows
+plant	water
+animal
+adv	digital
+wheels	car
+None
+fly	plant
+sky	plant
+rock	buildings
+rock	buildings
+animal	curtain
+buildings	adv	digital	windows
+animal
+plant
+water	boat	people
+machine
+animal	people
+plant	bird
+ballon	plant	people
+fly
+plant	Wnetting	people
+flower
+animal	people
+wanimal
+fish	people
+wool
+digital
+animal	people
+people
+people
+buildings
+people
+sky	plant
+sculpture
+food
+buildings
+plant
+flower	fly
+buildings	windows
+planes
+plant	people
+people
+plant	bird
+bed	people	windows
+rope	buildings
+door	buildings
+fish
+flower
+car
+food
+flower
+animal
+sculpture
+bed
+animal	plant
+tent	people	plant
+buildings
+adv
+glass	food
+adv	people	tent
+people	shoes
+door	room
+flower	plant
+planes
+digital	people
+IC
+rope	sky
+people
+plant
+train
+windows	table
+people
+plant	animal
+people	lamp
+people
+cross	bird
+car	snow
+instrument	hand
+food
+chair	lamp
+bottles	adv	digital
+bag
+firework	people
+animal
+equipment
+glass	adv
+buildings	windows	people	snow
+buildings	people
+lamp
+plant	rope
+rope	snow	people
+road
+hand	people
+people	instrument
+bike
+bottles	glass	adv
+moon
+buildings	people	rope
+water	people
+plant	fruit
+sky	rope
+coin
+flower
+clothes	flower
+windmill
+hill	buildings
+sculpture
+plant	animal
+buildings	windows
+people
+stars	tent	lamp
+sky	plant	plant	buildings
+fence	people
+plant	fun
+lamp	buildings	chair
+bird
+camera
+curtain	people
+machine
+food	dish
+rope	rope
+food	dish
+lamp
+buildings	people	windows
+car	people
+water	people
+people	rope
+animal	plant
+hill	buildings
+people	ballon
+people	ballon
+adv	train
+adv	car	wheels
+water	people
+plant	bird
+hill	plant	snow
+flower	buildings	windows
+plant	people
+food	dish
+plant	lantern
+plant	water
+shoes
+water	people	boat
+people
+sculpture
+food	dish
+fly	plant
+plant	water
+animal
+buildings	sky
+instrument	hand
+flower
+animal
+bird
+buildings	road	car
+machine	buildings
+people
+water	turtle
+sculpture
+food	dish
+motor	shoes	digital
+sculpture
+flower
+bird	plant
+glass
+room
+fish
+people
+fish
+food	dish	cup
+pot
+motor	people	plant
+bird
+train
+people
+fun	plant
+plant	flower	water
+animal	plant
+buildings
+glass
+people
+None
+bird
+flower
+people	plant
+people
+people	windows
+buildings
+people
+glass
+adv	digital
+rock
+lamp	people
+ballon	buildings	plant
+fence
+adv
+plant
+bird
+ballon
+people	curtain
+bird
+ballon	sky
+clock	digital
+bird
+adv	buildings
+snow	animal
+bike
+instrument	people	plant
+sky	buildings
+instrument	people
+bike
+bottles	glass	people
+buildings	sculpture
+flower
+bike	flower	plant
+animal
+people	sky
+None
+bed	flower
+rope	people
+hill	water
+people
+animal	plant
+plant	animal	people	fence
+adv	digital
+graffiti
+plant	rope
+lamp
+snow	animal
+people
+rope	people
+fish
+people
+animal
+glass
+road	plant	people
+buildings	water	windows
+plant
+people
+hand
+buildings	water
+instrument	people
+flower
+animal	plant
+animal
+Wnetting	windows
+plant	plant
+toy	lamp
+plant	animal
+plant	bird
+hand	fly
+buildings	plant
+people
+flower
+people	digital
+bird
+door
+people
+plant	animal
+buildings	toy	people
+buildings	windows
+camera
+people
+room
+sky	buildings	plant
+people
+people	shoes
+plant	animal
+buildings	planes
+plant	people
+flower
+animal
+food	dish
+instrument	people
+people
+shoes
+flower
+animal	people
+None
+people
+animal
+people
+cup	digital
+plant
+balls
+people
+None
+rock	people
+flower
+people
+flower
+people	flag
+canon	people	plant
+animal
+animal	people
+buildings	rope
+people
+people	flag
+animal	plant
+machine	sky	plant	buildings
+people
+rock	plant
+rock
+people
+butterfly
+people	plant
+plant
+buildings	windows
+flag
+buildings	adv	plant
+car	people
+clothes	rock
+lamp	people
+glass	food
+bike	people	plant	water
+animal
+people	plant
+sculpture
+lamp	candle
+moon
+plant	buildings
+plant	flower
+people
+moon
+plant	people
+bird
+bike	plant	people
+plant	flower
+lamp
+toy
+plant
+None
+plant	people
+bracelets
+water	sky
+flower	drill
+fish
+butterfly	plant
+people
+people
+None
+train
+flower
+monitor	lamp
+shoes	people
+flower	plant
+animal
+plant	bird
+animal
+adv	digital
+train
+people
+people
+plant	plant	bike
+car	wheels
+camera
+bottles
+plant
+sky	hill
+people	adv	digital
+people	hand
+planes
+instrument	people
+water	people
+animal
+car	plant
+car	plant
+bird
+sunset
+planes	sky
+planes
+planes
+water	animal
+buildings	plant	sky
+animal
+plant	animal
+animal
+food
+equipment	book
+flower
+fish
+fish
+sculpture
+people
+animal	plant
+road	lamp	motor	people
+fly
+plant	drill
+people
+people
+digital
+bike	people
+butterfly
+motor	plant
+plant	people
+plant	animal
+rope	Wnetting
+people
+bag
+fish
+plant
+people	book
+lamp	people	adv	instrument
+animal
+animal	hill	plant
+Wnetting
+people	rope
+plant	people
+plant	people
+hill
+equipment	clock	digital
+sky	water	hill
+bird
+train	plant
+food
+people	chair	lamp
+chair	tent	plant
+plant
+cans
+people
+water	bird
+plant
+plant	plant
+flower	plant
+bird
+rope
+people	plant
+water	bird
+pot
+plant	people	shoes
+people
+bird
+None
+sky	water
+people
+car	chair
+plant	fly
+digital
+people
+people	plant
+bike
+equipment
+animal	plant
+curtain
+rope
+people
+food	dish
+food
+buildings	windows
+bird
+buildings
+lamp
+IC
+flower
+flower	dish
+animal
+people
+flower
+fly	flower
+bird
+food	glass
+butterfly	flower
+animal	people
+rock
+people	instrument	lamp	hand
+fence	animal	plant	people
+animal	plant	people
+animal	people
+Wnetting	animal
+people
+people
+camera
+lamp	plant
+flower	plant
+people	curtain
+ballon
+cup	dish
+plant	animal	plant
+shoes
+hill	sky	water
+bottles	adv	digital
+buildings
+glass	dish	food
+animal	water
+cup
+buildings	windows	sky
+fish
+sky	rope	flag
+people
+people
+car	people
+plant
+people	bike
+toy
+plant	animal
+camera
+bird
+fruit
+car
+buildings	people
+flag	adv	digital
+good
+flower
+people
+food	dish
+boat	water	people	rope
+sculpture
+plant	buildings	people
+Wnetting
+people
+plant	people
+None
+windows
+butterfly	plant
+fly
+motor
+people
+bird
+flower	plant	bird
+animal
+sky	buildings	windows
+adv	digital
+adv	digital
+plant	animal
+people
+plant	animal
+people	motor
+animal
+water	sky	people	plant
+food
+InCar
+hand
+coral	fish
+None
+toy
+equipment
+buildings	windows
+water	boat	people
+water	buildings
+fly	plant
+fly
+buildings	plant
+people
+planes
+animal	plant
+buildings
+fruit
+None
+plant	fly
+table	people	glass
+people
+machine
+bird
+people	curtain
+bird
+foot
+people
+flower	plant
+plant	balls	people
+water	rock
+rock
+clock	people
+glass	people	monitor
+plant
+water	bird
+fruit
+motor
+animal
+animal
+animal
+lamp
+animal	hand
+water	bird
+bottles	adv	digital
+people
+car	wheels	sky
+fly	plant
+people
+people	candle	lamp
+buildings
+people
+people
+equipment
+flower	sky
+people
+instrument
+firework
+buildings	windows
+bed	chair
+car	wheels
+rope
+people
+people	instrument
+food	dish
+people	balls
+None
+plant
+people	cup
+fly	plant
+bird
+food	dish
+people
+people
+animal
+adv
+people
+train
+wool
+people
+animal
+food	dish
+rock	hill	people	plant
+firework
+car
+digital
+bottles	food	glass	hand
+shoes
+fly
+flower
+people	motor
+floor	wood
+floor	wood
+food
+people
+buildings	people	flag
+adv
+animal	plant
+flower
+door
+wood
+car
+rock
+Wnetting	animal
+moon
+buildings	adv	rope
+None
+rock	bike	cans
+animal
+bike
+people	curtain
+boat	water	flag
+wanimal
+buildings	water	lamp
+people
+food	dish
+flower
+plant
+instrument	people
+train	people
+moon	plant
+wanimal
+adv
+None
+buildings
+people	adv
+room
+fruit	people
+car	people	wheels
+adv
+buildings	lamp
+firework
+firework
+flower
+car
+None
+firework
+firework
+people	hand
+sky	buildings
+animal
+machine
+windmill	sky
+None
+digital	plant	plant
+animal
+bird
+people
+lamp
+water	bird	buildings	plant
+car
+plant	chair	rope
+car	people
+people
+people	bike	plant
+water	people	boat
+bottles	glass
+rock	plant	people
+people
+sky	plant	water
+monitor	bird
+balls
+instrument	people
+people
+plant	flower
+pen
+train
+plant	bird	rope
+book	people
+plant	plant	buildings
+plant	wheels	car	people
+plant
+people	plant	plant	balls
+water	buildings	sky
+None
+machine	people
+plant	people
+people	plant	chair
+animal
+people	plant
+people
+bird	plant
+buildings	windows	fence	plant
+glass
+people	instrument
+InCar	people
+sculpture
+lamp	dish
+plant	animal
+buildings	windows	adv	digital
+lamp
+people
+water	people
+fruit	dish
+people
+animal
+plant	people
+people
+lamp	lantern
+plant	animal
+glass
+motor
+people
+planes
+buildings	sky
+food	dish
+adv	digital
+flower
+animal
+machine
+plant	animal
+windows	fresco
+people
+door
+firework
+people
+flower
+people
+people	fruit	adv	digital	buildings
+flower
+food	dish
+glass	hand
+water	people
+None
+people	clothes
+people
+people
+lantern	adv
+plant
+curtain	room
+firework
+plant	people	plant
+people
+sky	water
+toy
+people	rope
+wanimal
+people	adv
+flower	plant
+None
+flower
+bottles	glass
+glass
+fly	plant
+flower	plant	plant
+planes
+adv	sky	water
+motor	people	sky
+plant	animal
+buildings	sky	plant
+bird
+wool
+people	adv
+digital	keyboard
+rope
+rock
+people
+fly
+machine
+cup	adv	digital
+toy
+adv
+car	wheels	buildings	plant
+pot	cup	room
+bird
+wheels
+buildings	windows
+glass
+plant	animal
+people
+planes
+bike	plant
+plant
+bottles	good
+people
+pot
+water	sky
+toy	lamp	people
+snow	people
+people
+hill	people	animal
+animal	sculpture	plant
+plant	animal
+people	water
+rock
+rock	water	plant	people
+bottles	glass	adv	digital
+wanimal
+buildings	windows	plant
+water	bird
+equipment	monitor
+bike	people	fence
+bike
+plant	sky	car	wheels	people
+people
+buildings
+hill	water
+wanimal
+bird
+bottles	people	windows
+adv	digital
+water	people
+animal
+plant	buildings	sky
+instrument	people
+animal	plant
+food
+plant	people	tent	plant
+people	plant	flower
+plant	people
+None
+plant	people
+lamp	people	curtain	lantern
+toy	car
+water	bird
+food
+plant	people
+water	people
+sky	buildings	clock	windows
+car
+rock
+people
+lamp	glass
+adv	digital
+food
+equipment	digital
+animal
+animal
+adv	digital
+people
+ballon	sky
+lamp	people
+plant	water	people
+fly
+car	wheels
+plant	animal
+motor	people
+animal	plant	plant
+stars
+hill	sky
+ballon	people
+lamp	people
+people	lamp
+people	car
+machine	people
+plant
+animal
+people	animal
+animal	people
+pot
+pot	plant	bird
+people
+rope	equipment
+instrument	people
+animal	plant
+people
+boat	water	sky
+plant	animal
+buildings	plant	people
+bike	people
+buildings	windows
+firework	buildings
+firework	buildings
+sculpture	buildings
+stars
+wheels
+water	buildings
+bird
+people	rope	boat
+glass	fruit
+planes	sky
+metal
+plant	people	plant
+plant	animal
+glass	flower
+people
+digital	door
+sky	plant	people
+bird
+food	dish
+buildings	windows	fresco
+people
+rock
+instrument	people
+rock
+ballon
+train
+Wnetting
+water
+people
+buildings	rock
+buildings	plant
+windows
+people
+stars
+table	knif	food	curtain
+animal	water
+fun	plant	people
+bird	water
+tunnel
+instrument	people	plant
+water	plant
+ballon
+car	plant	wheels
+glass
+animal	plant
+buildings	sky
+flower	butterfly
+buildings	sculpture
+buildings	flag
+lamp
+buildings	plant
+curtain
+animal
+wanimal
+flower	food
+Wnetting	people
+plant	plant	animal	rope
+rock	people
+camera
+people	rope
+glass	adv	digital
+rope
+buildings	rope
+people	instrument
+people	instrument
+plant	people
+motor
+None
+sky	buildings	rope
+flower	plant
+people	rope
+moon
+flower
+animal	plant	plant	people	sculpture
+plant
+people
+plant
+rock
+sky	buildings	boat
+lamp	people	table
+turtle
+Wnetting	animal	plant
+bird
+mushroom	plant
+flower
+hand
+plant
+bird
+people	fence
+people	fence
+bird
+plant	people	plant
+animal
+plant	bird
+fly
+fish
+animal
+buildings	people	windows
+people
+butterfly
+planes
+camera
+wanimal
+None
+plant
+fence	plant	adv
+wanimal
+rock
+buildings	water	people	sky
+mushroom
+sky
+people
+people
+plant	animal	plant
+people
+lamp
+wanimal
+sky	buildings	rope
+food
+plant	chair	tent
+flower
+food	dish
+animal
+mushroom
+plant
+people
+fruit	plant
+stair
+plant	road	rope
+balls
+train	people
+planes
+water
+food
+ballon	people
+butterfly	plant
+people
+rock	plant
+butterfly
+flower
+people	balls	rope
+bottles	adv	digital
+animal
+lamp	instrument	people
+sky	plant
+bird	sky
+planes
+door
+people	chair
+food
+lamp	plant
+animal	InCar
+animal
+water	plant	buildings	hill
+sculpture	people
+glass
+None
+people	plant
+plant	sky
+people	instrument
+people	instrument
+stars	plant
+None
+food	dish
+people	cup	dish
+fly
+lamp	people
+door
+fish
+monitor	digital
+InCar
+plant
+instrument	people
+people	plant	tent
+clock
+car	people	plant
+car	plant	people
+plant	bird
+stair	animal	fence
+people
+people
+water	bird
+bird
+flower
+buildings	plant
+plant
+plant
+people	good
+plant	adv	digital
+plant	road
+people	fence
+adv	digital	windows	buildings
+lamp
+water	rock
+people	adv
+glass
+plant	fruit
+bird
+mushroom
+animal	plant
+plant	people
+machine
+animal	plant
+car
+people	balls
+animal	plant
+Wnetting	sky	buildings	windows
+people
+clock
+instrument	people
+animal	plant
+plant	people	animal
+boat	rope	water
+boat	water	hill
+buildings
+buildings
+planes	ballon
+food	dish
+food	dish
+plant	animal
+plant	animal
+buildings	people
+sculpture	adv	people
+sculpture	people
+glass	adv
+people	buildings
+people
+car
+adv
+animal
+buildings	plant
+ballon	plant
+car	wheels	plant	people
+instrument	people
+camera
+bag
+fruit
+plant
+windows	people	dish
+bottles	adv	digital	fruit
+buildings
+people
+ballon
+glass	adv	digital
+plant	people
+water	bird
+plant	animal	people
+food
+toy	people	plant
+instrument
+buildings
+food	glass
+glass
+planes
+car	digital	sky
+food	cup
+animal	snow
+water	people
+fruit
+buildings
+curtain	table	people
+people
+plant	people
+buildings	plant	people
+fun	people
+moon	sky	plant
+butterfly	plant
+buildings	clock
+pot	room
+food
+car
+cross	people
+fly
+planes
+fruit	people	plant
+flower
+fruit
+buildings	windows	car	lamp
+buildings	people	windows
+buildings	machine
+people	curtain
+door
+people
+snow	people
+food	people	lamp
+glass
+plant	people
+None
+people
+buildings	train	sky
+car	buildings
+animal
+good
+mushroom
+buildings
+people	plant
+food
+people	flower
+people
+buildings
+plant	people	plant
+animal
+people	food
+monitor	people
+people
+groove	plant
+animal
+door
+buildings	clock	cross
+Wnetting	plant
+car
+instrument	lamp	people
+water	buildings
+plant
+people
+monitor	people
+lamp	buildings	windows
+hill	water	tent
+equipment	bottles	adv	digital
+animal
+plant	people
+lamp	food	glass
+wool
+flower	plant
+fly
+lamp	people
+instrument
+people
+planes
+people
+sculpture
+people
+mushroom
+animal	people
+people	plant
+animal	plant
+firework
+fruit	people
+fly
+car	people	plant
+water	bird
+buildings	rope
+plant	buildings
+plant
+people
+animal
+plant	animal
+rope
+plant
+animal
+buildings	windows
+buildings	windows	flag	plant
+people
+buildings
+None
+animal
+adv	digital
+stars	people	instrument
+animal
+bird
+food	people	dish	book
+people
+flower	hand
+rope
+sculpture
+lantern	people	lamp
+sky	planes
+firework
+food
+sculpture
+bird
+plant
+adv	digital
+rope	lamp
+people
+flower	plant
+buildings
+planes
+lamp
+flower
+Wnetting	animal	plant	snow
+wanimal
+planes
+planes
+planes
+butterfly	flower
+people
+sky	bird
+plant
+fruit
+rope	adv	digital
+people	plant
+people	digital
+water	plant
+people
+lamp
+plant	people
+plant	people
+buildings	car	windows
+monitor	chair	curtain	windows
+flower
+people
+flag	water	boat
+plant	people
+flag	water
+plant	people
+food
+phone
+plant	people
+people	lamp
+lamp	hand
+boat
+car
+plant	bird
+buildings	windows
+equipment
+firework
+sky	car	plant	tent
+plant	animal	Wnetting
+sky	animal	plant
+toy	people
+buildings	lamp	water
+flower
+food	pot	hand
+food	dish
+book	people	bag
+plant
+firework
+moon
+pot	food
+people
+toy
+buildings	lamp
+None
+flower	plant
+None
+lamp	rock
+lamp
+clock
+food	dish
+people	adv	digital
+material
+plant	people	adv	digital
+people
+dish	food
+glass
+buildings	snow	plant	chair	table
+car	wheels	people	plant	buildings
+buildings	plant
+people
+people
+people
+people
+plant	animal
+sky	lamp
+people
+animal	floor	wood
+people
+people
+people
+bracelets	balls
+people
+people
+plant	animal
+sunset	buildings
+car	people	wheels
+stars
+door
+people
+moon	car
+table	people	wood
+animal
+animal	snow
+animal	snow
+door
+drill
+animal
+firework
+animal	book
+food	dish
+people
+car
+people	buildings	bike
+animal	wood	shoes
+plant
+train	people
+animal
+clothes
+animal
+flower
+buildings	lamp
+fly
+people	rope
+people	balls	rope
+people
+buildings
+buildings
+rock	people
+fly	rope
+buildings	windows
+bottles	adv	digital
+motor	people
+rope	people
+pen
+car	people
+buildings	lamp	digital
+plant	bike	people
+buildings	lamp
+bird
+water	boat	people
+mushroom
+fruit	people
+water	people
+sculpture
+buildings	plant	people
+None
+planes
+flag	people	glass	digital
+sculpture
+chair	room
+lamp	toy
+animal
+car	plant
+people
+plant	animal
+plant	rope
+people
+bike	people	rope
+buildings	plant	windows
+buildings
+lamp
+animal	plant
+fish
+people
+camera
+animal	plant
+lamp	people
+None
+instrument	people
+lamp	plant
+balls	people
+fish
+phone
+metal
+toy
+water	sky	people	plant
+wool
+wool
+windows	table
+bird
+adv	digital	chair
+fish
+sunset	water
+bird
+Wnetting
+None
+canon	machine	plant
+food
+planes
+snow	people	plant
+IC
+adv	digital	buildings
+car	chair
+car	plant	people
+glass
+InCar
+lamp	buildings
+camera	people
+people	toy
+food
+sculpture	buildings
+buildings	lamp
+bottles	adv	digital	glass
+people
+people	glass
+people	glass
+monitor	adv	digital
+people
+plant	animal
+people
+fish
+graffiti	rope
+animal
+car
+people	instrument
+glass	hand
+people	lamp
+camera
+plant	people	Wnetting
+plant	buildings	hill
+people
+plant	people	fence
+people
+adv
+sunset	boat	water
+fly
+curtain	people
+fence	bike
+adv	digital
+buildings	plant
+plant	people
+phone
+buildings	windows
+animal
+fruit	plant
+people	stair
+lamp	balls	people	rope
+water	people
+plant
+chair	table	windows	door
+lamp	buildings
+people
+instrument	people
+planes
+plant
+plant	animal
+people
+bird
+bird
+buildings	windows
+wool
+people	bike	plant
+bike	people
+None
+bottles
+bird
+candle	lamp
+animal	animal
+buildings	windows
+plant
+plant
+people	curtain
+buildings	plant
+adv	people
+flag	people
+flag	people
+cans
+chair
+toy
+lantern	adv
+firework
+train
+car	wheels	plant
+wanimal
+instrument	people
+moon
+people
+buildings	windows
+bird
+people	door
+people
+clothes
+buildings	boat	water	rope
+buildings	windows	snow	car
+sky
+balls	people	lamp
+animal
+wheels	toy
+plant	people	buildings	rock
+people
+curtain	plant	sculpture
+sculpture
+people	monitor	table
+plant
+plant
+plant
+instrument	people
+instrument	people
+plant	buildings	people
+people
+flower
+bird
+adv	digital	buildings
+fish
+bird
+plant	animal
+people	rock	plant
+sculpture
+plant	buildings
+car
+bird
+flag
+plant	people
+fun	buildings
+fish
+food
+car
+food
+tent
+None
+people	pot
+car
+people
+sky
+plant	animal
+plant
+fish	coral
+buildings	sky
+phone	hand
+lamp	sculpture
+animal
+train	sky	plant
+water	people
+hill	sky	plant
+people
+food
+people
+rock
+lamp
+bottles	adv	digital
+moon
+animal
+people
+bird
+plant
+flag	water	sky	boat
+wood
+bottles	adv
+fresco	people
+animal	water
+people	curtain
+animal
+people	lamp
+fresco
+planes
+people
+plant
+people
+food	dish
+snow	people
+rock
+bird
+buildings	snow	people	plant	hill
+moon	stars
+sky	flag	water	people
+animal
+water	animal
+room
+None
+water	bird
+bird
+plant	flower
+sky	buildings
+food
+people	instrument
+clock	buildings
+wool
+buildings	rope	plant
+people
+animal
+buildings	lamp
+snow	animal	people	plant
+people	stars
+bird
+plant
+plant	animal
+instrument	people
+hand
+dish	food
+dish	food
+fly
+sunset	hill
+buildings
+glass	lamp
+people	water	animal
+plant	animal
+people
+instrument	bottles	adv	glass	fruit
+planes
+planes
+people	flower
+wheels	car
+people
+animal
+buildings	people
+motor
+plant
+buildings
+plant	car
+plant
+people
+plant	bike	people
+butterfly	plant
+water	people
+people
+water	bird
+animal	sofa	people
+animal	plant
+animal
+people	lamp
+buildings	water	plant
+planes
+None
+plant	snow
+food
+plant	flower
+animal	water
+bird
+plant	animal	people
+glass
+plant
+bird
+people
+people	wood
+water	lamp
+flower
+animal
+bike	shoes
+animal
+bird
+food
+bird
+canon
+stars
+bird
+shoes
+Wnetting	drill
+fly
+people
+water	bird
+car	snow
+snow	animal
+people
+food
+instrument	people
+buildings	snow	plant	windows	door
+people
+food
+people	wood
+plant
+buildings	car
+moon
+buildings	sky
+hand
+windows
+metal
+fish	people
+bird
+buildings	lamp	fresco
+bed	curtain	lamp	fresco
+people
+snow	plant	sky
+buildings	plant	boat
+buildings	windows	car
+plant	lamp
+animal
+plant	animal
+animal
+room
+wool
+glass
+people
+plant	fruit
+snow	people	plant
+rock	plant
+mushroom	plant
+firework
+flower
+sculpture
+people
+people
+sculpture
+equipment
+plant	snow
+plant
+plant	people	rope
+buildings	people
+stars
+instrument	people	curtain
+buildings	windows
+people	plant
+bird
+flower
+animal
+stars
+animal	sofa
+butterfly
+monitor	phone	people
+food	dish
+snow	plant	people
+water	fish
+people
+planes
+Wnetting	people	plant
+sky	buildings	plant
+people
+bird	plant
+plant
+people	curtain	curtain
+buildings
+people
+buildings	plant	people	door
+water	bird
+snow	people	car
+water	bird
+instrument	people
+glass	food
+rock
+people
+sculpture
+instrument	people
+plant	adv
+equipment
+lamp
+adv	digital
+None
+plant
+bird	snow
+rope
+instrument	people
+buildings	people	plant
+equipment
+firework
+buildings
+fruit
+stars	water
+buildings	lamp
+water	bird
+animal
+people
+food	dish
+plant	animal
+moon	rope
+glass
+buildings	plant	snow
+plant
+plant	animal
+people
+buildings
+Wnetting
+rope
+bike
+people	adv	digital
+people	adv	digital
+animal	people	buildings	snow
+wanimal
+food	dish
+wool
+buildings	people	flag
+glass	lamp
+people	flower
+food	hand
+water
+windows	fresco
+people
+bird
+flower
+balls
+people
+people
+bird	car	plant
+water	people
+animal
+firework
+flower	fly
+people	plant
+animal	plant
+people
+instrument
+people
+bottles	food
+bird
+people
+snow	plant
+snow	people
+bottles	stair
+bottles	stair
+plant	buildings	windows
+plant
+flower
+sky	buildings
+animal
+people
+water	fish
+lamp	rope
+butterfly	plant
+wood
+people
+bird	plant
+people
+people	toy
+lamp
+people
+plant	animal
+plant
+curtain	people
+snow	animal
+plant
+people
+plant
+food	dish
+animal
+dish	food
+people	canon
+stars	hill	rock
+food
+equipment
+people
+firework	lamp
+sky	water
+coral
+flower
+plant	chair	water
+animal
+car	wheels
+bird	water	plant
+bird	water
+buildings
+plant	bike	snow
+flower
+plant	people
+buildings	plant
+windows	lamp
+windows
+None
+plant	animal
+dish	plant
+plant	people	animal	fence
+firework
+good
+people
+firework
+buildings	sculpture
+plant	bird
+plant	fence	road
+people	monitor	table
+plant	bike	people
+camera
+people
+rope
+plant	animal
+people
+buildings
+instrument	people
+sculpture	plant
+plant	car	buildings	people
+butterfly
+plant	people
+people
+plant	bird
+drill
+fly
+door	floor	windows
+people
+animal
+bird
+plant	rope
+buildings	rope
+food
+toy	car
+car	road	digital	buildings
+fruit
+buildings	bike	plant	windows
+hill	water
+plant	people	snow
+bird
+animal	toy
+buildings	chair	windows
+buildings	windows
+animal
+people	instrument	buildings
+bird
+moon
+bottles
+people	adv
+wool
+animal
+flower
+fruit
+bird	plant
+firework
+plant	animal
+food
+fence	buildings	bird	plant	people
+dish	fruit
+balls
+adv	plant	digital
+people	toy
+equipment
+toy
+None
+flag	sculpture
+fruit
+sofa
+sculpture	buildings	windows
+bird	water
+lamp	buildings
+animal	water
+people
+good
+floor	adv	digital
+plant	water	boat	people
+digital
+None
+buildings	windows
+animal
+food
+plant	animal
+table	people	glass
+people
+snow	animal	plant
+bike	plant	people
+firework
+bird
+people
+sofa	people	lamp	stair
+buildings	plant	sky	windows
+shoes
+bird
+people
+people	car
+people
+people
+people	table
+flag	water	boat	people
+instrument	people
+None
+flag	water	people
+animal
+plant	rock	water
+train	adv	digital
+train	adv	digital
+clothes
+IC
+people
+food
+plant	people	snow
+lamp	people	adv	windows
+plant	snow
+animal
+flower
+plant
+None
+flower
+people	instrument
+glass
+graffiti	people	digital
+plant	animal
+bird
+rock	people
+phone
+people
+dish	flower
+bottles	adv	digital
+cans	digital	adv
+people
+plant
+animal	people	plant
+buildings	instrument	adv
+balls	people
+glass	hand	bottles
+bird
+people	plant
+animal	water
+lamp	people	balls
+bird	plant
+clothes	adv	digital
+graffiti	people
+buildings	people
+drill
+food
+food	bottles	glass
+people	curtain
+fly
+fruit
+snow	animal
+instrument	people
+fly	instrument
+food	dish
+lamp	buildings
+car	buildings
+plant	buildings	sculpture
+sculpture
+water	bird
+animal
+animal
+bird	buildings
+good	people	adv	digital
+chair	lamp	people
+buildings	people
+plant	animal
+table	chair
+food
+firework
+food
+people
+buildings	plant	windows
+glass
+instrument	people
+plant	bird
+people
+turtle
+bottles
+bed	lantern	lamp	curtain
+food	pot	fruit	dish
+Wnetting	animal
+bird
+car	people
+butterfly
+flower
+car
+flower
+plant
+people
+lamp
+chair	lamp
+water	people
+people
+water	people
+glass
+people	adv	digital
+plant	bird
+plant	people
+equipment
+hill	snow
+buildings	windows
+sculpture
+None
+flag	water	boat	people
+buildings
+plant	fruit
+instrument	people	lamp
+None
+animal
+animal
+stair	people
+people
+buildings	plant
+people
+people
+curtain	animal
+bottles
+buildings	plant	windows
+plant	animal
+people
+car	people	buildings	rope
+keyboard	digital
+Wnetting	chair
+sculpture	people	buildings	plant
+animal	plant
+cup	food
+animal	bag
+water	bird
+people
+people	rope
+people	monitor	lamp
+people	dish	glass
+people	motor
+InCar
+food
+bird	balls
+people
+plant	people	water
+clock	wood
+flower
+people	flag
+food	dish
+buildings	windows
+rock	plant
+people
+rope	balls
+sky
+people
+people	curtain	monitor	lantern
+buildings
+bird
+instrument	people
+plant	motor	people
+food
+animal
+motor	people
+plant
+plant
+plant	buildings
+fish	people
+buildings	windows
+door
+fruit
+None
+None
+sky	stars
+animal
+people
+buildings	sky	rope
+people
+people
+buildings
+people
+buildings
+food
+None
+people	lamp
+metal
+water	bird
+snow	plant	buildings	people
+food	dish
+people
+planes
+food
+bottles	adv	digital
+animal	people
+fish
+lantern
+plant	bike
+people
+food
+Wnetting	people
+camera
+people	flower
+None
+food
+food
+butterfly
+people
+bird
+None
+sky	water	boat
+food
+food
+buildings	plant
+animal
+plant
+people
+animal	plant
+people	buildings
+instrument	people
+lamp	instrument	people
+car	adv	digital
+bike	animal
+water	hill	plant	sky
+wheels
+None
+camera
+animal	people
+sky	buildings
+buildings	people	door
+plant	flower
+sky	planes
+camera
+people
+food	bottles	people
+mushroom	plant
+animal
+plant	sculpture	people	buildings
+plant
+animal
+sky	hill	bird
+None
+plant
+instrument	people
+plant	animal	people
+people	lamp
+water	bird
+planes
+ballon	people
+adv	monitor
+curtain	table	people
+car	people
+machine
+planes
+food	dish
+animal
+buildings	plant	sculpture
+lamp
+bird	water
+plant
+plant
+adv	sculpture
+animal
+people	instrument
+flower
+sculpture	adv
+animal
+animal
+food	dish
+fly
+people	plant
+pen
+bird
+people	sculpture
+animal
+animal
+bird
+people	lamp
+people	lamp
+flower
+bag
+people
+bottles	people	hand
+plant
+plant
+flower	butterfly	plant
+people
+plant	bird
+None
+plant	water	buildings
+fly
+plant	people
+None
+people
+car	plant	people
+plant
+people
+people
+lamp	fresco
+bike	boat	car
+water	bird
+animal
+monitor	keyboard	digital
+animal	plant
+flag	water	plant	boat	people
+plant	flag
+plant
+bag
+adv	people
+toy	people	good
+people	adv
+plant	animal
+sculpture
+hand	fish
+rope	bird
+plant	bike
+plant	buildings
+animal	plant
+plant	animal
+animal	plant
+Wnetting
+fruit
+food
+fruit	adv	digital
+flower
+people	instrument
+people
+lamp	bottles	glass
+instrument	people
+dish	food
+flower
+water	people	rock
+water	lamp
+plant	animal
+sky	flower
+boat	water	rope
+fresco
+wanimal
+people	buildings
+bottles	adv	digital
+buildings
+bird
+table	wood
+people	rope	balls
+people	shoes
+people
+wanimal
+motor
+people
+flag	water	plant
+buildings
+firework
+people	bird
+people	food
+firework
+turtle
+lamp
+people	rope	balls
+ballon
+bird
+InCar	people	plant
+bird
+plant	flower
+Wnetting
+pot
+canon
+canon
+people	adv
+fish
+people
+metal
+train	plant
+planes
+plant	flower
+water	bird
+animal	plant
+sky	people	plant
+buildings
+hand
+flower
+glass
+instrument	people
+toy
+food
+hand
+buildings
+bird	water
+people	digital	adv
+plant	car	fence
+bottles	adv	digital
+bottles	adv	digital
+buildings	train	water
+table	wood
+people	plant
+people
+bird	water
+adv
+groove	plant
+groove	plant
+instrument	people
+people	graffiti
+people
+animal
+moon
+people
+plant
+buildings	windows
+moon
+people
+buildings
+car	people	buildings
+food	pot
+plant
+door
+clothes	adv
+people	plant
+people	digital
+food	dish
+sky	water
+buildings
+people
+plant	fly
+animal	plant
+canon	people	canon
+buildings	windows
+buildings	plant	car	people
+flower
+people
+animal
+lamp	people
+buildings	lamp	sky
+plant	car	wheels
+people
+plant	fly
+people
+animal	plant
+water	animal	bird
+people
+flower
+people
+flower
+coral	people
+instrument	people
+people	water
+sculpture	animal
+people
+plant
+bird
+buildings
+firework
+None
+plant	car	wheels
+people
+bird
+None
+car
+machine
+keyboard	digital
+water	people	boat
+flower
+plant	hill
+None
+flower
+animal
+people
+bird	plant
+car
+plant	people
+people
+plant	people
+train
+bird
+None
+flower
+people
+flag	people	boat	water	plant
+glass
+clock
+people
+animal
+animal	plant
+instrument	people	lamp
+hand	pen
+food	dish	cup	glass
+rock	adv	digital
+people
+flag	chair
+bird
+stair	people
+fish
+plant
+people	table	monitor
+rock
+train	people
+equipment
+sky
+Wnetting	plant
+people
+None
+people
+sky	buildings
+flower
+animal
+people
+people
+book	buildings	lamp
+plant	animal
+hand	adv	toy
+plant	flower	butterfly
+people
+plant
+glass
+plant
+windows
+None
+wood
+people
+plant	animal
+animal
+animal	rock
+car
+plant	rope	sky
+water	sky
+bottles	adv
+bottles	adv
+water	boat	people	plant
+bottles	adv
+toy
+instrument	people
+plant	animal
+rope	bird
+canon
+bird
+buildings	fresco
+adv	lamp	buildings
+people
+sculpture
+stars	sky	buildings	lamp
+buildings	balls
+glass
+people	adv
+plant	buildings	sky
+people
+car	people
+table	chair
+people
+buildings	lamp
+plant
+rope	plant	people	flag
+animal	plant
+monitor	keyboard
+people
+plant	people
+fly
+plant	people
+None
+None
+people
+flower
+buildings
+plant	bike	people
+None
+fly
+tent	people
+adv
+bird
+rope	people	plant	wood
+hand	fly
+lamp	buildings
+bike
+plant	animal
+adv
+people	dish	food
+people
+plant
+people
+flower
+flag	sky	buildings	plant
+glass
+flower	plant
+fence	buildings	sculpture	water
+curtain	people
+animal	hand
+train	water	plant	fence
+planes
+firework
+plant	animal
+people
+buildings	windows
+plant	animal
+plant	animal
+plant
+bike
+flower
+hill	sky	motor	people
+water	plant
+fly
+fly
+people	plant	fruit
+instrument	people
+fruit	people
+Wnetting
+canon	buildings
+fish
+flag	water	plant	boat
+fruit
+animal
+people	glass
+None
+people
+people
+mushroom
+water	people	buildings
+lamp
+plant	animal
+people
+motor	wheels
+water	people
+flower	plant
+car	wheels
+mushroom
+food
+water	bird
+firework
+people	flower
+plant	animal
+animal
+cans	adv
+tunnel	Wnetting	road
+animal
+buildings	plant
+snow	people	sky
+bird	hill
+people
+train	buildings
+plant
+bottles	people	lamp
+people
+ballon	people
+flower
+food	Wanimal
+people
+glass
+digital	people
+animal	plant
+people
+sky	buildings	plant
+people
+instrument	people
+car	wheels
+plant	animal	fun	people
+Wnetting	animal
+water	bird
+ballon
+animal
+plant	flower
+animal
+water	bird
+rock	sky	water
+plant	motor	people
+plant
+people
+people	water
+groove	plant
+lamp	candle
+people	instrument	adv
+stars	buildings	windows	plant
+buildings	windows	plant
+sky	car	plant
+people
+animal
+people
+flower
+buildings	plant	car
+tent	plant
+fish
+fly
+plant
+bottles
+good
+sculpture
+sculpture	plant	people
+lamp
+water	bird
+sky	plant	water
+hill	plant
+plant
+plant	people	bike
+people	bike	plant
+flag	rope
+animal
+None
+animal	people
+flower
+door
+moon
+bird
+bird
+food	glass
+water
+people	flag
+fish
+fly
+bike	wood
+people	plant
+animal	plant
+flower	plant
+bottles
+plant
+people
+animal	plant
+instrument	people
+coral	rock
+buildings	windows
+fly
+fish
+None
+plant	animal
+food
+people
+people
+people	instrument
+lamp	adv	digital
+rope
+fly	plant
+buildings
+flag	people	buildings
+people
+plant
+buildings	windows
+fly
+car	wheels	cans
+people
+bird
+flag	plant	water	boat	people
+flag	plant	water	boat	people
+flag	plant	water	people
+animal
+adv	digital
+good	adv
+people
+planes
+balls
+plant
+people
+bottles	adv
+plant	lamp
+bird
+rope	people
+animal	wood
+car	rope
+plant
+water	animal
+plant
+firework
+plant
+plant	animal
+glass
+adv	people
+sky	buildings	fun
+animal	rock
+plant	people	sculpture	animal
+buildings	car	plant
+plant	animal
+plant	animal
+people
+buildings	plant
+clock
+people	adv	digital
+planes
+people
+people
+flower
+instrument	people
+plant	animal
+road	lamp
+people	animal
+bird
+sky	plant
+animal
+door
+adv
+plant	animal
+toy
+car	wheels	plant	people	buildings
+plant	water
+people	plant
+animal
+fish
+people
+None
+Wnetting	animal
+people
+fish
+plant
+animal
+stars	plant
+flower	plant
+animal
+toy	planes
+lamp
+people	instrument
+bike	plant
+sky	buildings	rope
+ballon	plant
+None
+plant	flower
+people	motor	plant
+people
+people	bike	plant
+rope
+Wnetting
+water	buildings
+plant	bike	people
+tunnel	plant
+people	curtain
+bird
+fish
+food
+balls
+firework
+fly
+flower	plant	stair
+water	people
+pot
+animal	plant
+bird
+animal	hand
+flower	fly
+bird	plant
+bird
+bird
+fruit
+people	windows
+buildings	plant	hill
+sculpture	animal
+plant	flower
+people
+lamp
+food
+foot
+firework
+bike	fence	plant	water
+lamp	candle
+butterfly	plant
+plant
+buildings	plant	rock
+water	people
+None
+metal
+moon
+fruit
+water	fish
+people	stair	plant
+water	bird
+people	balls
+plant	people	tent
+people	instrument
+water	people
+material
+flower
+animal
+plant	animal
+animal
+moon
+bird	plant
+bird	plant
+plant
+Wnetting	buildings
+metal
+bird
+rope	lamp
+car	wheels	plant
+water	bird
+fruit
+plant	animal	people
+food
+people
+plant	people
+food	pot	dish
+buildings	sky
+bird	water
+firework
+people	plant
+flower
+people	water
+plant
+bag
+tent	plant	people
+plant	animal
+buildings	car	windows
+plant	people
+sofa	people
+food
+animal
+people
+hill	plant	sky
+cans
+mushroom
+car
+plant	bird
+food
+water	bird
+firework
+plant	fence	bird
+lamp
+people
+camera
+water	people	boat
+car	plant
+tent	plant
+windows	lamp	people	curtain
+Wnetting	sky
+car
+ballon
+metal
+bird
+ballon	people	sky
+fly
+people
+people
+people	animal
+people	animal
+plant	people
+flower	fly
+plant	people	rope
+people	wood
+wanimal
+bird
+train
+train
+Wnetting
+wheels
+instrument	people
+bird
+lamp
+plant
+people
+plant
+fish
+animal	plant
+water	bird
+moon
+plant	people
+dish	food
+pot
+bird
+sculpture
+moon
+sculpture
+sky	planes
+bag
+plant	animal
+plant	animal
+plant	animal
+plant	animal	people
+animal
+water	boat	flag	people
+adv
+plant	animal
+adv
+buildings	rope
+people	plant	buildings
+food
+animal	plant
+door
+car
+bottles	glass
+bird
+butterfly
+fun	people
+people	water
+moon
+glass
+motor
+butterfly
+plant	animal
+hand
+glass	lamp	candle
+rock
+people	curtain
+people	plant
+people
+sky	water
+adv	digital
+water	bird
+lamp	people
+people
+people	plant
+plant
+animal
+None
+firework
+bird
+water	boat
+people
+plant	car
+fly
+car	plant
+motor	people
+sky	buildings
+car	plant	people
+wool
+people
+rope	sculpture
+sky	plant	bike	people
+clock
+people	lamp
+water
+water	people	plant
+bike	people	buildings
+bird
+plant	buildings
+animal
+animal
+people	glass
+flower	plant
+buildings	plant
+flower	plant
+people	rope
+plant	animal
+hand
+food	dish
+fly
+butterfly	flower
+people
+plant	bird
+sky	boat	water	rope
+bird
+buildings
+water	boat
+camera
+sculpture
+Wnetting
+car	wheels
+bird	water
+people
+plant	animal
+mushroom
+plant	buildings
+buildings
+bird	water
+buildings
+tent	people
+bike	people
+plant	car	people
+fly
+food
+stars	plant
+water	bird
+InCar
+bottles	curtain
+plant
+food
+animal	water	sky
+plant
+people	balls	rope
+sky	rope
+sky	people
+instrument	people
+water	windmill
+lamp
+water	people
+water	people
+animal
+instrument	people
+keyboard
+stars
+lamp
+water	people
+snow	plant	people	bike
+chair	people
+wanimal
+windows
+plant	animal
+firework
+plant
+stars
+lamp
+people
+buildings	plant
+people	lamp
+adv
+firework
+buildings	fun
+plant	animal
+buildings	people
+people	monitor
+toy
+buildings
+ballon
+people
+good
+sculpture
+flower	sky
+water	boat
+sky	boat	rope
+bird	plant
+food	dish
+plant	people
+car	plant
+animal
+water	people
+None
+monitor	people
+rock	lantern
+plant	people
+lantern	lamp
+people
+bird
+bird
+plant	bird
+food
+people
+ballon
+plant	bird
+plant	bird
+food
+people	lamp
+people	instrument
+animal
+people
+people
+animal
+sculpture
+plant	car
+car	wheels
+car
+plant	buildings
+ballon
+plant	buildings	boat	people
+people
+plant	animal
+equipment
+plant	people	rope
+lamp
+food	dish
+water	fish
+people
+animal
+people	plant
+flag	adv
+plant	animal
+planes
+train
+water	bird
+firework
+None
+animal
+plant
+people
+fish	water
+bird
+plant
+firework
+plant	animal
+buildings	water
+None
+people	car
+machine
+None
+glass
+rope
+people
+sky	buildings
+car	wheels
+animal	people	plant
+flag	rope	sky
+water
+animal	table
+train
+animal
+people	plant	buildings
+plant	people	bike
+plant	fence
+sculpture
+people
+people
+flower
+water	people
+people	rope
+water	people
+water	people
+water	people
+firework
+bird
+lamp	people	instrument
+water	animal
+food
+flower
+planes
+table	lantern
+bed	table	windows	wood	floor
+wood	floor	table	chair	clock
+sky	buildings	rope
+buildings
+firework
+plant	animal
+plant	animal
+animal	people	plant
+stair	plant
+Wnetting
+hand
+people	windows
+buildings	people
+people	bottles	adv
+bird
+shoes
+bird	plant
+None
+wood	plant
+kite	sky
+fish
+buildings	rope
+wool
+water	people	sky
+bird
+equipment
+stars	plant
+food	bottles
+flower
+people
+buildings
+InCar	people	buildings
+buildings
+bird
+water	animal
+flower
+plant
+plant	people
+plant
+balls
+plant	animal
+sofa
+snow	animal	people
+people	plant
+balls
+plant
+bird
+planes
+buildings	plant	lamp
+glass	candle	flower
+planes	buildings	rope
+flag	water	boat
+camera
+plant
+stars
+food
+balls	rope	people
+people
+people
+bird
+road
+sculpture
+people
+sunset
+water	bird
+plant	flower
+None
+rock
+fish	rock
+people
+windows	people
+bottles	adv	digital
+people
+animal
+people	sofa
+people	rope
+people
+bird
+sunset
+bird
+car	plant
+wool
+animal	rope
+animal
+adv	digital
+bottles	room
+people	plant
+sky	plant	buildings
+buildings
+sculpture
+animal
+butterfly	plant
+plant	people
+bottles	adv	digital
+car
+firework
+people	plant
+sky	rope
+bird
+people
+people	book
+people
+book	adv	digital
+dish	balls
+sky	plant	people
+door
+people
+hill	plant
+plant
+bracelets
+shoes
+people	adv
+car	wheels	plant
+food	dish
+buildings	rock
+flag	car	people
+animal
+fish
+instrument	people
+people	chair
+people	fish
+table	chair	lamp
+flower	plant
+lamp
+door
+None
+buildings	rope	car
+plant	hill
+animal
+planes	sky
+instrument	people
+bottles	adv
+wool
+table	chair
+buildings
+glass
+None
+shoes	people
+people	flag
+mushroom
+rock
+fly
+sculpture
+bird
+Wnetting	people	buildings
+planes
+flower
+cup
+animal
+butterfly	flower
+plant	buildings
+people
+plant	animal
+toy	pot	rope
+fruit
+Wnetting
+bed
+lamp
+machine
+bird	plant
+people
+water	animal
+water	animal
+bed	people	curtain
+people
+instrument	people	lamp
+firework
+animal
+people
+people
+buildings	rope
+camera
+car	wheels
+balls
+water	people
+fruit	dish
+bike	people
+car	plant	lamp
+fruit
+sky	hill
+hand	balls	rope	people
+people
+people
+people
+car	people	plant
+sculpture
+plant	animal	people
+rope	buildings
+animal
+plant
+bike	people
+pot	hand	food
+plant	people
+plant	people
+fish
+buildings
+cup
+None
+plant	people	animal
+ballon
+food
+people	instrument
+people
+animal
+people
+coral	rock
+plant	sky
+people
+hand
+buildings
+people
+flag	plant	boat	sky
+plant	people	rope
+water	fish
+snow	people	plant
+people
+water	fish
+plant	people
+plant
+people	instrument
+people
+people
+phone
+equipment
+fruit	plant
+sculpture
+buildings	car
+food	people
+people	glass
+ballon	people
+water	bird
+ballon	lamp	people
+fly
+food
+plant	animal
+car	plant	wheels
+people
+people	plant
+people	plant
+food
+toy
