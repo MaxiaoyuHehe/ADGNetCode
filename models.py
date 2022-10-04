@@ -1,14 +1,12 @@
 import torch as torch
 import torch.nn as nn
-from torch.nn import functional as F
+
 from torch.nn import init
-import math
+
 import torch.utils.model_zoo as model_zoo
 import numpy as np
-import matplotlib.pyplot as plt
-from einops import rearrange
-from modeltrans import IQARegression
-from modeltransdec import IQARegressionDec
+
+
 from torchvision.ops import RoIPool, RoIAlign
 
 model_urls = {
