@@ -2,7 +2,7 @@ import torch
 import torchvision
 import folders
 
-class DataLoader02(object):
+class IQADataLoader(object):
     """Dataset class for IQA databases"""
 
     def __init__(self, dataset, path, img_indx, batch_size=1, istrain=True):
@@ -36,19 +36,5 @@ class DataLoader02(object):
                 self.data, batch_size=self.batch_size, shuffle=True, drop_last=True)
         else:
             dataloader = torch.utils.data.DataLoader(
-                self.data, batch_size=self.batch_size, shuffle=False, drop_last=True)
-        return dataloader
-
-class DataLoaderW(object):
-    """Dataset class for IQA databases"""
-
-    def __init__(self, path, img_indx,batch_size=1):
-
-        self.batch_size = batch_size
-        self.data = folders.WFolder(
-                root=path,index=img_indx)
-
-    def get_data(self):
-        dataloader = torch.utils.data.DataLoader(
-            self.data, batch_size=self.batch_size, shuffle=True)
+                self.data, batch_size=8, shuffle=False, drop_last=True)
         return dataloader

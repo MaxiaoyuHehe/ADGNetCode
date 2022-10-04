@@ -1,7 +1,7 @@
 import numpy as np
 import scipy.io as scio
 
-
+###This part of CODE is a little bit dummy, we would update later
 def readsmlb():
     MIdx_f=scio.loadmat('MIdx.mat')
     MIdx=MIdx_f['MIdx'].astype(np.bool)
